@@ -1,23 +1,36 @@
-# ignore ModelSim generated files and directories (temp files and so on)
-[_@]*
-
-# ignore compilation output of ModelSim
-*.mti
-*.dat
-*.dbs
-*.psm
-*.bak
-*.cmp
-*.jpg
-*.html
-*.bsf
-
-# ignore simulation output of ModelSim
-wlf*
+# Ignore simulator output, generated implementation data, and local technology libraries.
+work/
+transcript
 *.wlf
-*.vstf
-*.ucdb
-cov*/
-transcript*
-sc_dpiheader.h
-vsim.dbg
+*.lck
+*.bak
+*.log
+*.rpt
+*.ddc
+*.sdf
+*.svf
+*.spf
+*.db
+*.sdb
+*.vdb
+*.vdbdat
+*.dmp
+*.dep
+*.mr
+*.pvl
+*.sns
+*.syn
+*.df
+*.env
+std_cells/
+
+# ModelSim project files
+modelsim.ini
+*.mpf
+
+# Exclude private/generated tool work trees and environment snapshots
+**/*work*/
+**/*WORK*/
+**/.sg.env
+*.env
+
