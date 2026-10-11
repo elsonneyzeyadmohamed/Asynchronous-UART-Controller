@@ -1,0 +1,68 @@
+ 
+****************************************
+Report : area
+Design : SYS_TOP
+Version: O-2018.06-SP1
+Date   : Sat Oct 10 23:04:53 2026
+****************************************
+
+Library(s) Used:
+
+    scmetro_tsmc_cl013g_rvt_ss_1p08v_125c (File: /home/ICer/Projects/Final_system/std_cells/scmetro_tsmc_cl013g_rvt_ss_1p08v_125c.db)
+
+Number of ports:                          577
+Number of nets:                          2902
+Number of cells:                         2274
+Number of combinational cells:           1803
+Number of sequential cells:               446
+Number of macros/black boxes:               0
+Number of buf/inv:                        367
+Number of references:                      21
+
+Combinational area:              16609.120717
+Buf/Inv area:                     2060.401727
+Noncombinational area:           10846.820425
+Macro/Black Box area:                0.000000
+Net Interconnect area:          849104.163605
+
+Total cell area:                 27455.941142
+Total area:                     876560.104746
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area            Local cell area
+                                  -------------------  ------------------------------ 
+Hierarchical cell                 Absolute    Percent  Combi-      Noncombi-   Black-
+                                  Total       Total    national    national    boxes   Design
+--------------------------------  ----------  -------  ----------  ----------  ------  -----------------------------------------
+SYS_TOP                           27455.9411    100.0     84.7224     25.8874  0.0000  SYS_TOP
+g_clk                                25.8874      0.1      9.4136     16.4738  0.0000  clk_gating
+u_alu                              6783.6755     24.7   1290.8399    440.0858  0.0000  ALU_WIDTH8
+u_alu/add_27                        231.8099      0.8    231.8099      0.0000  0.0000  ALU_WIDTH8_DW01_add_0
+u_alu/div_33                       2441.6525      8.9   2441.6525      0.0000  0.0000  ALU_WIDTH8_DW_div_uns_0
+u_alu/mult_31                      2115.7066      7.7   1908.6074      0.0000  0.0000  ALU_WIDTH8_DW02_mult_0
+u_alu/mult_31/FS_1                  207.0992      0.8    207.0992      0.0000  0.0000  ALU_WIDTH8_DW01_add_1
+u_alu/sub_29                        263.5808      1.0    263.5808      0.0000  0.0000  ALU_WIDTH8_DW01_sub_0
+u_async_fifo                       7255.5322     26.4      9.4136    258.8740  0.0000  fifo_DATA_WIDTH8_NUM_ADDR_BITS4
+u_async_fifo/u_DF_SYNC_R2W          268.2876      1.0      9.4136    258.8740  0.0000  DF_SYNC_NUM_ADDR_BITS4_1
+u_async_fifo/u_DF_SYNC_W2R          268.2876      1.0      9.4136    258.8740  0.0000  DF_SYNC_NUM_ADDR_BITS4_0
+u_async_fifo/u_FIFO_RD              693.0763      2.5    304.7653    388.3110  0.0000  FIFO_RD_NUM_ADDR_BITS4
+u_async_fifo/u_FIFO_WR              675.4258      2.5    287.1148    388.3110  0.0000  FIFO_WR_NUM_ADDR_BITS4
+u_async_fifo/u_fifo_mem_cntrl      5082.1673     18.5   2371.0506   2711.1167  0.0000  fifo_mem_cntrl_DATA_WIDTH8_NUM_ADDR_BITS4
+u_clk_div                          1046.0863      3.8    677.7792    261.2274  0.0000  clk_div_0
+u_clk_div/r75                       107.0797      0.4    107.0797      0.0000  0.0000  clk_div_0_DW01_inc_0
+u_clk_div_rx                       1046.0863      3.8    677.7792    261.2274  0.0000  clk_div_1
+u_clk_div_rx/r75                    107.0797      0.4    107.0797      0.0000  0.0000  clk_div_1_DW01_inc_0
+u_data_sync                         429.4955      1.6    114.1399    315.3556  0.0000  data_synch_BUS_WIDTH8_NUM_STAGES2
+u_pulse_gen                          35.3010      0.1      9.4136     25.8874  0.0000  PULSE_GEN
+u_reg_file                         6336.5295     23.1   2639.3382   3697.1914  0.0000  Reg_file_ADDR_WIDTH4_DATA_WIDTH8
+u_rst_sync_1                         51.7748      0.2      0.0000     51.7748  0.0000  rst_synchronizer_0
+u_rst_sync_2                         51.7748      0.2      0.0000     51.7748  0.0000  rst_synchronizer_1
+u_sys_ctrl                         1290.8399      4.7    971.9542    318.8857  0.0000  SYS_CTRL_ADDR_WIDTH4_DATA_WIDTH8
+u_uart_rx                          2133.3571      7.8   1380.2691    753.0880  0.0000  rx_DATA_WIDTH8
+u_uart_tx                           858.9910      3.1    495.3907    363.6003  0.0000  Tx_DATA_WIDTH8
+--------------------------------  ----------  -------  ----------  ----------  ------  -----------------------------------------
+Total                                                  16609.1207  10846.8204  0.0000
+
+1
