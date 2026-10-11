@@ -1,0 +1,34 @@
+#################################################################
+# SGDC File for CDC Analysis
+# Design: SYS_TOP
+#################################################################
+
+current_design SYS_TOP
+
+sdc_data -file ./SYS_TOP.sdc
+
+
+# Define Clocks 
+
+
+# Define reset 
+reset -name "RST" -value 0 -async
+
+
+
+# Define quasi-static internal signals
+quasi_static -name "SYS_TOP.reg2_uart_cfg"
+quasi_static -name "SYS_TOP.reg3_div_ratio"
+quasi_static -name "SYS_TOP.uart_prescale"
+quasi_static -name "SYS_TOP.uart_par_en"
+quasi_static -name "SYS_TOP.uart_par_typ"
+
+# Define I/O Port Clock Domains
+input  -name "RX_IN"   -clock "uart_clk"
+output -name "TX_OUT"  -clock "uart_clk"
+output -name "PAR_ERR" -clock "uart_clk"
+output -name "STP_ERR" -clock "uart_clk"
+
+
+
+
