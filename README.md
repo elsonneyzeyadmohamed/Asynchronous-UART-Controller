@@ -6,7 +6,7 @@ This repository documents a complete digital-design flow for an 8-bit UART-contr
 
 The implementation flow represented here runs from Verilog RTL through simulation setup, lint, synthesis, formal equivalence, scan insertion, and place-and-route. The checked-in scripts, reports, netlists, timing/parasitic files, and screenshots are linked below so the design can be reviewed stage by stage.
 
-> **Placement density:** the reported target-stage density before filler insertion is **67%**. Filler cells are physical-only cells inserted later to occupy suitable whitespace and support manufacturing. The final Encounter summary reports a different density metric after physical cells are present; see [Physical-design results](#physical-design-results) for the distinction.
+> **Placement density:** the placement density before filler insertion, as provided for this run, is **67%**. Filler cells are physical-only cells inserted later to occupy suitable whitespace and support manufacturing. The final Encounter summary reports a different density metric after physical cells are present; see [Physical-design results](#physical-design-results) for the distinction.
 
 ## Visual project evidence
 
@@ -356,7 +356,7 @@ Some hidden database and intermediate files in `PnR/` are tool-generated support
 
 ## Running the RTL testbench
 
-Use Questa/ModelSim with the repository's source tree available. From the project root, the root-level `run.do` delegates to the RTL simulation setup; alternatively open `rtl/` and run its `run.do` script as described in that file:
+Use Questa/ModelSim with the repository's source tree available. From the project root, run the root-level `run.do`; it compiles the RTL files from `rtl/` and launches the testbench. Alternatively, open `rtl/` and run its `run.do` script as described in that file:
 
 ```tcl
 do run.do
