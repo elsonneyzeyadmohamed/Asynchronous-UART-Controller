@@ -232,7 +232,7 @@ The repository contains a routed gate-level netlist, an SDF delay file, and an e
 
 | Evidence | What is checked or reported | What the repository supports claiming |
 |---|---|---|
-| RTL testbench source | Register write/readback; add; multiply using saved operands; serial frame handling | Stimulus and expected checks are present; no simulator transcript is checked in |
+| RTL testbench and waveform | Register write/readback; add; multiply using saved operands; serial frame handling | Testbench source and a Questa waveform screenshot are included; no text simulator transcript is checked in |
 | RTL lint summary | Design-read report and message summary | Two informational messages in `moresimple.rpt`; one intentional latch waiver is documented |
 | CDC setup | SDC/SGDC constraints and waiver file | CDC analysis setup artifacts are present; no run summary is included |
 | Synthesis constraints | Timing constraints and constraint-violation report | `syn/constraints.rpt` states that the design has no violated constraints for that run |
@@ -243,6 +243,21 @@ The repository contains a routed gate-level netlist, an SDF delay file, and an e
 | PnR timing | One routed timing path report | The listed latch-check path has slack of 27.512 report time units; this is one path, not a complete timing-closure summary |
 
 The reports describe tool runs and configurations captured in the files. Results can change with RTL, constraints, libraries, tool versions, and run settings.
+
+### Captured Questa testbench waveform
+
+![Questa waveform for the SYS_TOP UART testbench](docs/images/testbench-waveform.jpg)
+
+The screenshot is from Questa Sim 64 10.7c and shows the `tb_SYS_TOP` simulation signals over the test sequence. The reference clock and UART clock are active, reset is released, and the receiver input carries the bytes used by the testbench:
+
+1. **`AA 04 5A` — register write.** The command FSM advances through write-address and write-data states. The testbench then uses `BB 04` to read the location back.
+2. **`BB 04` — register read.** The read-response byte appears in the FIFO/transmit path as `5A`.
+3. **`CC 12 03 00` — add command.** The operands and function code reach the controller/ALU. The ALU output shows `0015`; the response path carries `15` followed by `00` (low byte first).
+4. **`DD 02` — multiply saved operands.** The ALU output shows `0036`; the response path carries `36` followed by `00`.
+
+The waveform makes the control/data sequence visible: `rx_p_data` and its valid signal show received bytes, `SYS_CTRL.state` changes as each command is decoded, `ALU_OUT` changes when a calculation completes, and `fifo_rd_data`, `fifo_rd_inc`, `tx_busy`, and `TX_OUT` show the response bytes moving through the FIFO and serial transmitter. `PAR_ERR` and `STP_ERR` remain low in the captured view.
+
+This is visual simulation evidence for the observed run. The image is not a textual transcript of the testbench's `PASS` messages; the source testbench contains the explicit comparisons and prints those messages when run successfully.
 
 ## Synthesis results and outputs
 
