@@ -1,0 +1,2248 @@
+routeGuideNet REF_CLK
+wire 14.555 44.895 0 44.895 H 0.5
+wire 0 44.895 0 50.1 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK__L1_N0
+wire 18.245 64.985 14.965 64.985 H 0.5
+wire 14.965 64.985 14.965 44.075 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK__L2_N0
+wire 19.065 65.805 15.785 65.805 H 0.5
+wire 15.785 65.805 15.785 53.505 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M
+wire 33.825 67.855 17.835 67.855 H 0.5
+wire 17.835 67.855 17.835 53.095 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L1_N0
+wire 35.055 64.985 34.235 64.985 H 0.5
+wire 34.235 64.985 34.235 68.265 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L2_N0
+wire 58.015 64.985 37.925 64.985 H 0.5
+wire 37.925 64.985 37.925 65.805 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L3_N0
+wire 58.425 65.805 29.725 65.805 H 0.5
+wire 29.725 65.805 29.725 56.375 V 0.5
+wire 92.865 108.035 58.425 108.035 H 0.5
+wire 58.425 108.035 58.425 65.805 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L4_N1
+wire 98.605 108.035 93.275 108.035 H 0.5
+wire 93.275 108.035 93.275 108.445 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L4_N0
+wire 46.535 85.075 32.185 85.075 H 0.5
+wire 32.185 85.075 32.185 55.555 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L5_N1
+wire 98.195 107.215 90.405 107.215 H 0.5
+wire 90.405 107.215 90.405 108.035 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L5_N0
+wire 77.285 105.165 48.995 105.165 H 0.5
+wire 48.995 105.165 48.995 84.255 V 0.5
+wire 86.305 113.365 77.285 113.365 H 0.5
+wire 77.285 113.365 77.285 105.165 V 0.5
+endRouteGuideNet
+routeGuideNet g_clk/en_latched
+wire 85.895 108.035 74.415 108.035 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L6_N1
+wire 94.095 99.835 88.765 99.835 H 0.5
+wire 88.765 99.835 88.765 112.955 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L6_N0
+wire 77.695 104.755 75.235 104.755 H 0.5
+wire 75.235 104.755 75.235 108.035 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk
+wire 72.775 107.625 72.775 99.425 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L7_N1
+wire 110.495 94.095 96.555 94.095 H 0.5
+wire 96.555 94.095 96.555 100.245 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L7_N0
+wire 74.825 107.215 73.595 107.215 H 0.5
+wire 73.595 107.215 73.595 108.035 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M
+wire 76.055 99.425 74.825 99.425 H 0.5
+wire 74.825 99.425 74.825 99.015 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L8_N0
+wire 112.955 94.505 109.265 94.505 H 0.5
+wire 109.265 94.505 109.265 90.815 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk
+wire 72.775 107.625 72.775 99.425 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L1_N0
+wire 155.185 128.125 77.695 128.125 H 0.5
+wire 77.695 128.125 77.695 100.245 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L9_N0
+wire 110.085 96.555 109.675 96.555 H 0.5
+wire 109.675 96.555 109.675 89.995 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M
+wire 76.055 99.425 74.825 99.425 H 0.5
+wire 74.825 99.425 74.825 99.015 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L2_N0
+wire 162.565 130.995 157.235 130.995 H 0.5
+wire 157.235 130.995 157.235 128.945 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L10_N0
+wire 110.495 95.735 60.475 95.735 H 0.5
+wire 60.475 95.735 60.475 125.255 V 0.5
+wire 180.195 64.985 110.495 64.985 H 0.5
+wire 110.495 64.985 110.495 95.735 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L1_N0
+wire 155.185 128.125 77.695 128.125 H 0.5
+wire 77.695 128.125 77.695 100.245 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L3_N0
+wire 169.535 130.995 162.155 130.995 H 0.5
+wire 162.155 130.995 162.155 130.175 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L11_N1
+wire 60.885 124.435 48.995 124.435 H 0.5
+wire 48.995 124.435 48.995 156.825 V 0.5
+wire 73.185 93.685 60.885 93.685 H 0.5
+wire 60.885 93.685 60.885 124.435 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L11_N0
+wire 180.195 36.285 180.195 65.805 V 0.5
+wire 179.785 99.425 180.195 99.425 H 0.5
+wire 180.195 99.425 180.195 65.805 V 0.5
+wire 180.195 65.805 180.605 65.805 H 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L2_N0
+wire 162.565 130.995 157.235 130.995 H 0.5
+wire 157.235 130.995 157.235 128.945 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L4_N0
+#Trunk_Term begin
+#Trunk u_alu/ALU_OUT_reg\[3\] CK 140.835 153.955
+#Trunk u_alu/ALU_OUT_reg\[2\] CK 140.015 125.255
+#Trunk u_alu/ALU_OUT_reg\[10\] CK 172.405 133.865
+#Trunk_Term end
+wire 157.645 125.255 158.055 125.255 H 0.5
+wire 157.645 125.255 157.645 130.995 V 0.5
+wire 157.645 125.255 140.015 125.255 H 0.5
+wire 183.065 136.735 172.405 136.735 H 0.5
+wire 153.135 145.345 153.135 153.955 V 0.5
+wire 153.135 145.345 154.775 145.345 H 0.5
+wire 154.775 145.345 154.775 139.605 V 0.5
+wire 140.835 153.955 153.135 153.955 H 0.5
+wire 154.775 139.605 157.645 139.605 H 0.5
+wire 157.645 139.605 157.645 130.995 V 0.5
+wire 158.055 125.255 169.535 125.255 H 0.5
+wire 169.535 125.255 169.945 125.255 H 0.5
+wire 169.945 125.255 169.945 130.175 V 0.5
+wire 169.945 130.175 172.405 130.175 H 0.5
+wire 172.405 130.175 172.405 133.865 V 0.5
+wire 172.405 133.865 172.405 136.735 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L12_N3
+wire 49.405 157.645 48.995 157.645 H 0.5
+wire 48.995 157.645 48.995 174.045 V 0.5
+wire 50.635 145.345 49.405 145.345 H 0.5
+wire 49.405 145.345 49.405 157.645 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L12_N2
+wire 73.595 94.505 73.595 96.555 V 0.5
+wire 47.765 96.555 73.595 96.555 H 0.5
+wire 73.595 96.555 95.325 96.555 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L12_N1
+wire 180.195 100.245 153.955 100.245 H 0.5
+wire 153.955 100.245 153.955 93.685 V 0.5
+wire 205.205 110.905 180.195 110.905 H 0.5
+wire 180.195 110.905 180.195 100.245 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L12_N0
+wire 180.605 37.105 161.335 37.105 H 0.5
+wire 161.335 37.105 161.335 50.635 V 0.5
+wire 203.975 27.675 180.605 27.675 H 0.5
+wire 180.605 27.675 180.605 37.105 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L3_N0
+wire 169.535 130.995 162.155 130.995 H 0.5
+wire 162.155 130.995 162.155 130.175 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N7
+wire 49.405 174.865 69.905 174.865 H 0.5
+wire 69.905 174.865 69.905 194.135 V 0.5
+wire 28.085 162.565 28.085 174.865 V 0.5
+wire 26.445 194.135 28.085 194.135 H 0.5
+wire 28.085 194.135 28.085 174.865 V 0.5
+wire 28.085 174.865 49.405 174.865 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N6
+wire 51.045 146.165 24.805 146.165 H 0.5
+wire 24.805 146.165 24.805 136.735 V 0.5
+wire 67.445 156.825 51.045 156.825 H 0.5
+wire 51.045 156.825 51.045 146.165 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N5
+wire 95.735 95.735 92.045 95.735 H 0.5
+wire 92.045 95.735 92.045 130.995 V 0.5
+wire 101.885 62.115 95.735 62.115 H 0.5
+wire 95.735 62.115 95.735 95.735 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N4
+wire 48.175 95.735 30.135 95.735 H 0.5
+wire 30.135 95.735 30.135 102.295 V 0.5
+wire 63.755 93.685 48.175 93.685 H 0.5
+wire 48.175 93.685 48.175 95.735 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N3
+wire 205.615 111.725 205.615 102.295 V 0.5
+wire 196.185 99.425 205.615 99.425 H 0.5
+wire 205.615 99.425 205.615 102.295 V 0.5
+wire 193.315 125.255 205.615 125.255 H 0.5
+wire 205.615 125.255 205.615 111.725 V 0.5
+wire 205.615 102.295 219.555 102.295 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N2
+wire 154.365 94.505 135.915 94.505 H 0.5
+wire 135.915 94.505 135.915 110.905 V 0.5
+wire 171.995 85.075 154.365 85.075 H 0.5
+wire 154.365 85.075 154.365 94.505 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N1
+wire 204.385 26.855 183.885 26.855 H 0.5
+wire 183.885 26.855 183.885 21.935 V 0.5
+wire 219.145 39.155 204.385 39.155 H 0.5
+wire 204.385 39.155 204.385 26.855 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N0
+wire 161.745 49.815 139.195 49.815 H 0.5
+wire 139.195 49.815 139.195 44.895 V 0.5
+wire 183.885 56.375 161.745 56.375 H 0.5
+wire 161.745 56.375 161.745 49.815 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L4_N0
+#Trunk_Term begin
+#Trunk u_alu/ALU_OUT_reg\[3\] CK 140.835 153.955
+#Trunk u_alu/ALU_OUT_reg\[2\] CK 140.015 125.255
+#Trunk u_alu/ALU_OUT_reg\[10\] CK 172.405 133.865
+#Trunk_Term end
+wire 157.645 125.255 158.055 125.255 H 0.5
+wire 157.645 125.255 157.645 130.995 V 0.5
+wire 157.645 125.255 140.015 125.255 H 0.5
+wire 183.065 136.735 172.405 136.735 H 0.5
+wire 153.135 145.345 153.135 153.955 V 0.5
+wire 153.135 145.345 154.775 145.345 H 0.5
+wire 154.775 145.345 154.775 139.605 V 0.5
+wire 140.835 153.955 153.135 153.955 H 0.5
+wire 154.775 139.605 157.645 139.605 H 0.5
+wire 157.645 139.605 157.645 130.995 V 0.5
+wire 158.055 125.255 169.535 125.255 H 0.5
+wire 169.535 125.255 169.945 125.255 H 0.5
+wire 169.945 125.255 169.945 130.175 V 0.5
+wire 169.945 130.175 172.405 130.175 H 0.5
+wire 172.405 130.175 172.405 133.865 V 0.5
+wire 172.405 133.865 172.405 136.735 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N17
+#Trunk_Term begin
+#Trunk u_reg_file/mem_reg\[8\]\[5\] CK 41.205 168.305
+#Trunk u_reg_file/mem_reg\[15\]\[2\] CK 19.065 159.695
+#Trunk_Term end
+wire 27.675 165.435 27.675 171.175 V 0.5
+wire 27.675 165.435 27.675 163.385 V 0.5
+wire 41.205 162.565 41.205 168.305 V 0.5
+wire 12.505 159.695 19.065 159.695 H 0.5
+wire 27.265 159.695 27.675 159.695 H 0.5
+wire 27.675 159.695 27.675 163.385 V 0.5
+wire 27.265 159.695 19.065 159.695 H 0.5
+wire 27.675 174.045 30.545 174.045 H 0.5
+wire 27.675 174.045 27.675 171.175 V 0.5
+wire 41.205 174.045 41.205 168.305 V 0.5
+wire 41.205 174.045 30.545 174.045 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N16
+#Trunk_Term begin
+#Trunk u_reg_file/mem_reg\[11\]\[6\] CK 41.205 191.265
+#Trunk u_reg_file/mem_reg\[13\]\[4\] CK 10.455 194.135
+#Trunk_Term end
+wire 28.085 202.745 38.335 202.745 H 0.5
+wire 28.085 202.745 28.085 199.875 V 0.5
+wire 42.025 202.745 42.025 199.875 V 0.5
+wire 42.025 202.745 38.335 202.745 H 0.5
+wire 18.245 188.395 24.805 188.395 H 0.5
+wire 18.245 188.395 12.915 188.395 H 0.5
+wire 10.455 194.135 10.455 188.395 V 0.5
+wire 12.915 188.395 10.455 188.395 H 0.5
+wire 24.805 188.395 26.035 188.395 H 0.5
+wire 26.035 188.395 26.035 193.315 V 0.5
+wire 26.035 193.315 28.085 193.315 H 0.5
+wire 28.085 193.315 28.085 199.875 V 0.5
+wire 41.205 191.265 41.205 197.005 V 0.5
+wire 41.205 197.005 42.025 197.005 H 0.5
+wire 42.025 197.005 42.025 199.875 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N15
+#Trunk_Term begin
+#Trunk REF_CLK_M__L14_I15 Y 69.495 193.315
+#Trunk u_reg_file/mem_reg\[10\]\[6\] CK 56.375 191.265
+#Trunk u_reg_file/mem_reg\[1\]\[5\] CK 81.385 202.745
+#Trunk_Term end
+wire 56.375 197.005 56.375 202.745 V 0.5
+wire 56.375 197.005 56.375 191.265 V 0.5
+wire 69.905 191.265 69.495 191.265 H 0.5
+wire 69.495 191.265 69.495 193.315 V 0.5
+wire 69.905 191.265 72.365 191.265 H 0.5
+wire 72.775 202.745 81.385 202.745 H 0.5
+wire 72.775 202.745 72.775 199.875 V 0.5
+wire 72.775 202.745 69.905 202.745 H 0.5
+wire 83.845 194.135 83.845 202.745 V 0.5
+wire 56.375 185.525 56.375 191.265 V 0.5
+wire 58.425 202.745 69.905 202.745 H 0.5
+wire 58.425 202.745 56.375 202.745 H 0.5
+wire 72.365 191.265 72.775 191.265 H 0.5
+wire 72.775 191.265 72.775 199.875 V 0.5
+wire 81.385 202.745 83.845 202.745 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N14
+#Trunk_Term begin
+#Trunk u_reg_file/mem_reg\[7\]\[0\] CK 41.205 130.995
+#Trunk u_reg_file/mem_reg\[6\]\[5\] CK 13.325 133.865
+#Trunk_Term end
+wire 41.205 130.995 41.205 122.385 V 0.5
+wire 38.745 119.515 29.725 119.515 H 0.5
+wire 38.745 119.515 41.205 119.515 H 0.5
+wire 41.205 119.515 41.205 122.385 V 0.5
+wire 29.725 128.125 28.905 128.125 H 0.5
+wire 28.905 128.125 28.905 130.995 V 0.5
+wire 29.725 128.125 29.725 119.515 V 0.5
+wire 28.905 130.995 24.805 130.995 H 0.5
+wire 24.805 130.995 24.805 133.865 V 0.5
+wire 24.805 133.865 24.395 133.865 H 0.5
+wire 24.395 133.865 24.395 135.915 V 0.5
+wire 24.395 135.915 21.935 135.915 H 0.5
+wire 21.935 135.915 21.935 142.475 V 0.5
+wire 21.935 142.475 21.935 145.345 V 0.5
+wire 13.325 145.345 10.455 145.345 H 0.5
+wire 10.455 145.345 10.455 142.475 V 0.5
+wire 13.325 145.345 21.935 145.345 H 0.5
+wire 13.325 133.865 10.455 133.865 H 0.5
+wire 10.455 133.865 10.455 139.605 V 0.5
+wire 10.455 142.475 10.455 139.605 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N13
+#Trunk_Term begin
+#Trunk u_reg_file/mem_reg\[9\]\[4\] CK 60.475 159.695
+#Trunk u_reg_file/mem_reg\[0\]\[4\] CK 83.845 156.825
+#Trunk_Term end
+wire 71.955 168.305 74.005 168.305 H 0.5
+wire 74.005 168.305 74.005 171.175 V 0.5
+wire 71.955 168.305 71.955 159.695 V 0.5
+wire 71.955 157.645 71.955 151.085 V 0.5
+wire 71.955 157.645 67.035 157.645 H 0.5
+wire 71.955 157.645 71.955 159.695 V 0.5
+wire 83.845 162.565 83.845 156.825 V 0.5
+wire 83.845 162.565 83.845 165.435 V 0.5
+wire 81.385 171.175 81.385 168.305 V 0.5
+wire 81.385 171.175 74.005 171.175 H 0.5
+wire 60.475 159.695 67.035 159.695 H 0.5
+wire 67.035 159.695 67.035 157.645 V 0.5
+wire 81.385 168.305 83.845 168.305 H 0.5
+wire 83.845 168.305 83.845 165.435 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N12
+#Trunk_Term begin
+#Trunk u_reg_file/RdData_reg\[3\] CK 99.835 136.735
+#Trunk u_reg_file/mem_reg\[0\]\[0\] CK 84.255 130.995
+#Trunk_Term end
+wire 98.195 145.345 99.835 145.345 H 0.5
+wire 99.835 145.345 99.835 136.735 V 0.5
+wire 83.025 128.125 84.255 128.125 H 0.5
+wire 84.255 128.125 84.255 130.995 V 0.5
+wire 85.485 130.995 84.255 130.995 H 0.5
+wire 85.485 130.995 91.635 130.995 H 0.5
+wire 91.635 130.995 91.635 130.175 V 0.5
+wire 97.375 130.175 91.635 130.175 H 0.5
+wire 97.375 130.175 97.375 133.865 V 0.5
+wire 99.835 133.865 109.265 133.865 H 0.5
+wire 99.835 133.865 97.375 133.865 H 0.5
+wire 99.835 133.865 99.835 136.735 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N11
+#Trunk_Term begin
+#Trunk u_sys_ctrl/state_reg\[2\] CK 100.655 85.075
+#Trunk u_data_sync/sync_bus_reg\[7\] CK 84.665 73.595
+#Trunk u_async_fifo/u_FIFO_WR/w_ptr_reg\[3\] CK 113.365 42.025
+#Trunk_Term end
+wire 99.015 76.465 99.015 79.335 V 0.5
+wire 99.015 76.465 96.555 76.465 H 0.5
+wire 96.555 76.465 96.555 73.595 V 0.5
+wire 84.665 73.595 96.145 73.595 H 0.5
+wire 96.145 73.595 96.555 73.595 H 0.5
+wire 96.555 70.725 101.475 70.725 H 0.5
+wire 101.475 70.725 101.475 67.855 V 0.5
+wire 96.555 70.725 96.555 73.595 V 0.5
+wire 99.015 79.335 100.655 79.335 H 0.5
+wire 100.655 79.335 100.655 85.075 V 0.5
+wire 101.475 61.295 105.575 61.295 H 0.5
+wire 105.575 61.295 105.575 44.895 V 0.5
+wire 101.475 61.295 101.475 67.855 V 0.5
+wire 105.575 44.895 113.365 44.895 H 0.5
+wire 113.365 44.895 113.365 42.025 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N10
+#Trunk_Term begin
+#Trunk u_reg_file/mem_reg\[4\]\[0\] CK 41.205 99.425
+#Trunk u_reg_file/mem_reg\[4\]\[5\] CK 21.935 99.425
+#Trunk_Term end
+wire 12.505 99.425 21.935 99.425 H 0.5
+wire 40.795 96.555 41.205 96.555 H 0.5
+wire 40.795 96.555 29.725 96.555 H 0.5
+wire 43.665 105.165 41.205 105.165 H 0.5
+wire 41.205 105.165 41.205 99.425 V 0.5
+wire 23.985 101.475 29.725 101.475 H 0.5
+wire 23.985 101.475 21.935 101.475 H 0.5
+wire 21.935 101.475 21.935 99.425 V 0.5
+wire 29.725 96.555 29.725 101.475 V 0.5
+wire 41.205 99.425 41.205 96.555 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N9
+#Trunk_Term begin
+#Trunk REF_CLK_M__L14_I9 Y 63.345 94.505
+#Trunk u_sys_ctrl/saved_address_reg\[0\] CK 69.085 105.165
+#Trunk u_reg_file/mem_reg\[2\]\[4\] CK 65.805 73.595
+#Trunk_Term end
+wire 58.015 73.595 65.805 73.595 H 0.5
+wire 71.135 85.075 69.905 85.075 H 0.5
+wire 69.905 85.075 69.905 87.945 V 0.5
+wire 71.135 85.075 71.135 79.335 V 0.5
+wire 57.605 108.035 69.085 108.035 H 0.5
+wire 69.085 108.035 69.085 105.165 V 0.5
+wire 71.135 76.465 71.135 79.335 V 0.5
+wire 71.135 76.465 67.855 76.465 H 0.5
+wire 69.905 94.505 69.905 96.555 V 0.5
+wire 69.905 94.505 63.345 94.505 H 0.5
+wire 69.905 94.505 69.905 90.815 V 0.5
+wire 65.805 73.595 67.855 73.595 H 0.5
+wire 67.855 73.595 67.855 76.465 V 0.5
+wire 69.085 105.165 69.495 105.165 H 0.5
+wire 69.495 105.165 69.495 102.295 V 0.5
+wire 69.495 102.295 69.905 102.295 H 0.5
+wire 69.905 102.295 69.905 96.555 V 0.5
+wire 69.905 87.945 69.905 90.815 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N8
+#Trunk_Term begin
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[8\]\[4\] CK 198.235 139.195
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[12\]\[1\] CK 185.935 119.925
+#Trunk_Term end
+wire 182.245 116.235 185.935 116.235 H 0.5
+wire 185.935 116.235 185.935 119.925 V 0.5
+wire 185.935 127.715 192.905 127.715 H 0.5
+wire 185.935 127.715 185.935 121.975 V 0.5
+wire 199.055 124.435 199.875 124.435 H 0.5
+wire 199.875 124.435 199.875 127.715 V 0.5
+wire 199.055 124.435 192.905 124.435 H 0.5
+wire 185.935 119.925 185.935 121.975 V 0.5
+wire 192.905 124.435 192.905 127.715 V 0.5
+wire 198.235 139.195 199.875 139.195 H 0.5
+wire 199.875 139.195 199.875 133.455 V 0.5
+wire 199.875 133.455 199.875 127.715 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N7
+#Trunk_Term begin
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[6\]\[7\] CK 197.005 81.795
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[7\]\[3\] CK 213.815 93.275
+#Trunk REF_CLK_M__L14_I7 Y 195.775 100.245
+#Trunk_Term end
+wire 198.645 85.485 198.645 91.225 V 0.5
+wire 198.645 85.485 197.005 85.485 H 0.5
+wire 197.005 85.485 197.005 81.795 V 0.5
+wire 198.645 93.275 195.775 93.275 H 0.5
+wire 198.645 93.275 203.565 93.275 H 0.5
+wire 198.645 93.275 198.645 91.225 V 0.5
+wire 195.775 102.705 199.875 102.705 H 0.5
+wire 195.775 102.705 195.775 100.245 V 0.5
+wire 213.815 99.015 213.815 93.275 V 0.5
+wire 195.775 100.245 195.775 93.275 V 0.5
+wire 203.565 93.275 213.815 93.275 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N6
+#Trunk_Term begin
+#Trunk REF_CLK_M__L14_I6 Y 219.145 101.475
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[6\]\[4\] CK 213.815 76.055
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[8\]\[1\] CK 224.885 127.715
+#Trunk_Term end
+wire 228.575 76.055 228.575 87.535 V 0.5
+wire 228.575 76.055 226.115 76.055 H 0.5
+wire 225.705 99.015 225.705 108.445 V 0.5
+wire 225.705 99.015 224.475 99.015 H 0.5
+wire 224.475 99.015 224.475 96.965 V 0.5
+wire 225.705 99.015 228.575 99.015 H 0.5
+wire 228.165 127.715 224.885 127.715 H 0.5
+wire 228.165 127.715 228.165 121.975 V 0.5
+wire 213.815 127.715 224.885 127.715 H 0.5
+wire 219.555 96.965 219.145 96.965 H 0.5
+wire 219.145 96.965 219.145 101.475 V 0.5
+wire 219.555 96.965 224.475 96.965 H 0.5
+wire 213.815 76.055 226.115 76.055 H 0.5
+wire 225.705 108.445 228.165 108.445 H 0.5
+wire 228.165 108.445 228.165 114.185 V 0.5
+wire 228.165 114.185 228.165 121.975 V 0.5
+wire 228.575 87.535 228.575 99.015 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N5
+#Trunk_Term begin
+#Trunk u_async_fifo/FULL_reg CK 137.965 99.425
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[13\]\[0\] CK 157.235 108.445
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[13\]\[1\] CK 153.955 110.495
+#Trunk u_sys_ctrl/saved_function_reg\[3\] CK 116.645 113.775
+#Trunk_Term end
+wire 153.955 108.445 157.235 108.445 H 0.5
+wire 153.955 108.445 153.955 110.495 V 0.5
+wire 153.955 108.445 142.885 108.445 H 0.5
+wire 111.725 113.775 116.645 113.775 H 0.5
+wire 137.965 108.445 137.965 99.425 V 0.5
+wire 137.965 108.445 135.505 108.445 H 0.5
+wire 135.505 108.445 135.505 111.725 V 0.5
+wire 137.965 108.445 142.885 108.445 H 0.5
+wire 116.645 113.775 125.255 113.775 H 0.5
+wire 125.255 113.775 125.255 111.725 V 0.5
+wire 135.505 111.725 125.255 111.725 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N4
+#Trunk_Term begin
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[12\]\[7\] CK 167.485 99.015
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[15\]\[6\] CK 167.075 58.835
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[14\]\[2\] CK 181.835 87.535
+#Trunk_Term end
+wire 181.835 87.535 171.585 87.535 H 0.5
+wire 181.835 87.535 181.835 76.055 V 0.5
+wire 171.585 84.255 170.355 84.255 H 0.5
+wire 170.355 84.255 170.355 81.795 V 0.5
+wire 171.585 84.255 171.585 87.535 V 0.5
+wire 171.175 91.225 167.485 91.225 H 0.5
+wire 167.485 91.225 167.485 93.275 V 0.5
+wire 171.175 91.225 171.585 91.225 H 0.5
+wire 171.585 91.225 171.585 87.535 V 0.5
+wire 170.355 81.795 169.535 81.795 H 0.5
+wire 169.535 81.795 169.535 79.745 V 0.5
+wire 169.535 76.055 167.075 76.055 H 0.5
+wire 167.075 76.055 167.075 68.265 V 0.5
+wire 169.535 76.055 169.535 79.745 V 0.5
+wire 167.485 99.015 167.485 93.275 V 0.5
+wire 167.075 68.265 167.075 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N3
+#Trunk_Term begin
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[1\]\[2\] CK 171.995 30.135
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[3\]\[2\] CK 199.875 22.345
+#Trunk_Term end
+wire 183.475 24.395 183.475 30.135 V 0.5
+wire 183.475 24.395 183.475 21.115 V 0.5
+wire 181.835 30.135 171.995 30.135 H 0.5
+wire 181.835 30.135 183.475 30.135 H 0.5
+wire 185.935 7.175 189.215 7.175 H 0.5
+wire 185.935 7.175 185.935 12.915 V 0.5
+wire 183.475 21.115 185.935 21.115 H 0.5
+wire 185.935 21.115 185.935 12.915 V 0.5
+wire 189.215 7.175 198.645 7.175 H 0.5
+wire 198.645 7.175 199.465 7.175 H 0.5
+wire 199.465 7.175 199.465 12.915 V 0.5
+wire 199.465 12.915 199.875 12.915 H 0.5
+wire 199.875 12.915 199.875 22.345 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N2
+#Trunk_Term begin
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[4\]\[7\] CK 212.585 53.095
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[2\]\[6\] CK 210.945 24.395
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[4\]\[1\] CK 223.655 35.875
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[5\]\[0\] CK 224.065 47.355
+#Trunk_Term end
+wire 223.655 38.335 224.065 38.335 H 0.5
+wire 224.065 38.335 224.065 47.355 V 0.5
+wire 223.655 38.335 218.735 38.335 H 0.5
+wire 223.655 38.335 223.655 35.875 V 0.5
+wire 226.115 53.095 224.065 53.095 H 0.5
+wire 224.065 53.095 224.065 47.355 V 0.5
+wire 213.815 38.335 213.815 41.615 V 0.5
+wire 213.815 38.335 210.945 38.335 H 0.5
+wire 210.945 38.335 210.945 35.875 V 0.5
+wire 213.815 38.335 218.735 38.335 H 0.5
+wire 210.945 24.395 210.945 35.875 V 0.5
+wire 212.585 53.095 213.815 53.095 H 0.5
+wire 213.815 53.095 213.815 45.305 V 0.5
+wire 213.815 41.615 213.815 45.305 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N1
+#Trunk_Term begin
+#Trunk u_async_fifo/u_DF_SYNC_R2W/synchronized_out_reg\[3\] CK 131.405 33.415
+#Trunk u_async_fifo/u_DF_SYNC_R2W/second_stage_reg\[0\] CK 157.235 42.025
+#Trunk u_async_fifo/u_FIFO_WR/w_addr_reg\[0\] CK 140.835 53.505
+#Trunk_Term end
+wire 140.835 39.155 149.035 39.155 H 0.5
+wire 140.835 39.155 140.835 36.285 V 0.5
+wire 140.835 39.155 140.425 39.155 H 0.5
+wire 140.835 33.415 140.015 33.415 H 0.5
+wire 140.835 33.415 140.835 36.285 V 0.5
+wire 138.785 47.765 140.835 47.765 H 0.5
+wire 140.835 47.765 140.835 53.505 V 0.5
+wire 138.785 47.765 138.785 44.075 V 0.5
+wire 156.415 39.155 157.235 39.155 H 0.5
+wire 157.235 39.155 157.235 42.025 V 0.5
+wire 156.415 39.155 149.035 39.155 H 0.5
+wire 131.405 33.415 140.015 33.415 H 0.5
+wire 138.785 44.075 140.425 44.075 H 0.5
+wire 140.425 44.075 140.425 39.155 V 0.5
+wire 140.835 53.505 140.835 56.375 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N0
+#Trunk_Term begin
+#Trunk REF_CLK_M__L14_I0 Y 183.475 55.555
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[1\]\[1\] CK 171.585 39.565
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[4\]\[6\] CK 197.005 51.045
+#Trunk_Term end
+wire 167.485 47.355 167.485 45.305 V 0.5
+wire 167.485 47.355 167.485 56.785 V 0.5
+wire 167.895 39.565 171.585 39.565 H 0.5
+wire 167.895 39.565 167.895 41.615 V 0.5
+wire 183.475 58.835 183.475 55.555 V 0.5
+wire 183.475 58.835 178.965 58.835 H 0.5
+wire 183.475 58.835 185.935 58.835 H 0.5
+wire 197.005 58.835 197.005 51.045 V 0.5
+wire 197.005 58.835 192.495 58.835 H 0.5
+wire 167.485 45.305 167.895 45.305 H 0.5
+wire 167.895 45.305 167.895 41.615 V 0.5
+wire 167.485 56.785 178.965 56.785 H 0.5
+wire 178.965 56.785 178.965 58.835 V 0.5
+wire 192.495 58.835 185.935 58.835 H 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK
+wire 13.735 59.245 0 59.245 H 0.5
+wire 0 59.245 0 60.1 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK__L1_N0
+wire 28.495 59.245 14.145 59.245 H 0.5
+wire 14.145 59.245 14.145 60.065 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK__L2_N0
+wire 28.905 60.065 7.995 60.065 H 0.5
+wire 7.995 60.065 7.995 59.245 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M
+wire 26.445 59.245 10.045 59.245 H 0.5
+wire 10.045 59.245 10.045 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L1_N0
+wire 26.855 58.835 26.855 59.245 V 0.5
+wire 24.395 59.245 26.855 59.245 H 0.5
+wire 26.855 59.245 28.085 59.245 H 0.5
+wire 28.085 59.245 28.085 64.985 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L2_N1
+wire 30.545 65.805 9.635 65.805 H 0.5
+wire 9.635 65.805 9.635 16.195 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L2_N0
+wire 38.745 44.895 38.745 56.375 V 0.5
+wire 24.805 58.835 38.745 58.835 H 0.5
+wire 38.745 58.835 38.745 56.375 V 0.5
+wire 21.525 64.985 24.805 64.985 H 0.5
+wire 24.805 64.985 24.805 58.835 V 0.5
+wire 38.745 56.375 56.785 56.375 H 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L3_N1
+wire 23.575 7.585 12.095 7.585 H 0.5
+wire 12.095 7.585 12.095 15.375 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L3_N0
+wire 23.575 65.805 23.165 65.805 H 0.5
+wire 23.165 65.805 23.165 56.375 V 0.5
+endRouteGuideNet
+routeGuideNet n19
+wire 66.625 59.245 63.345 59.245 H 0.5
+wire 63.345 59.245 63.345 55.555 V 0.5
+endRouteGuideNet
+routeGuideNet n18
+wire 50.635 53.505 45.305 53.505 H 0.5
+wire 45.305 53.505 45.305 44.075 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L4_N1
+wire 37.515 16.195 26.035 16.195 H 0.5
+wire 26.035 16.195 26.035 8.405 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L4_N0
+wire 55.555 53.505 25.625 53.505 H 0.5
+wire 25.625 53.505 25.625 55.555 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk
+wire 72.365 59.245 67.855 59.245 H 0.5
+wire 67.855 59.245 67.855 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk
+wire 49.405 56.375 49.405 53.095 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L5_N1
+wire 57.195 59.245 39.975 59.245 H 0.5
+wire 39.975 59.245 39.975 15.375 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L5_N0
+wire 58.015 54.325 53.505 54.325 H 0.5
+wire 53.505 54.325 53.505 50.635 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M
+wire 75.645 59.245 74.415 59.245 H 0.5
+wire 74.415 59.245 74.415 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M
+wire 65.395 47.765 51.455 47.765 H 0.5
+wire 51.455 47.765 51.455 56.785 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L6_N1
+wire 59.655 60.065 37.105 60.065 H 0.5
+wire 37.105 60.065 37.105 102.295 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L6_N0
+wire 62.525 53.505 53.915 53.505 H 0.5
+wire 53.915 53.505 53.915 49.815 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L1_N0
+wire 124.845 53.915 77.285 53.915 H 0.5
+wire 77.285 53.915 77.285 60.065 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L1_N0
+wire 74.415 36.285 67.855 36.285 H 0.5
+wire 67.855 36.285 67.855 48.585 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L7_N1
+wire 39.565 101.475 36.695 101.475 H 0.5
+wire 36.695 101.475 36.695 59.245 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L7_N0
+wire 62.115 54.325 52.685 54.325 H 0.5
+wire 52.685 54.325 52.685 53.505 V 0.5
+wire 64.575 59.245 62.115 59.245 H 0.5
+wire 62.115 59.245 62.115 54.325 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L2_N0
+wire 127.305 54.325 124.025 54.325 H 0.5
+wire 124.025 54.325 124.025 50.635 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L2_N0
+wire 74.825 37.105 73.595 37.105 H 0.5
+wire 73.595 37.105 73.595 19.065 V 0.5
+wire 85.895 53.505 74.825 53.505 H 0.5
+wire 74.825 53.505 74.825 37.105 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L8_N0
+wire 43.255 59.245 39.155 59.245 H 0.5
+wire 39.155 59.245 39.155 60.065 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk
+wire 49.405 56.375 49.405 53.095 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk
+wire 72.365 59.245 67.855 59.245 H 0.5
+wire 67.855 59.245 67.855 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L3_N0
+wire 132.635 50.635 124.435 50.635 H 0.5
+wire 124.435 50.635 124.435 49.815 V 0.5
+wire 141.245 50.635 132.635 50.635 H 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L3_N1
+#Trunk_Term begin
+#Trunk rx_clk_M__L3_I1 Y 86.305 54.325
+#Trunk u_uart_rx/parity_err_reg CK 98.195 53.505
+#Trunk u_uart_rx/p_data_reg\[1\] CK 73.595 56.375
+#Trunk_Term end
+wire 96.965 42.025 86.305 42.025 H 0.5
+wire 96.965 42.025 96.965 44.895 V 0.5
+wire 70.315 56.375 73.595 56.375 H 0.5
+wire 82.615 56.375 73.595 56.375 H 0.5
+wire 82.615 56.375 84.665 56.375 H 0.5
+wire 84.665 56.375 84.665 54.325 V 0.5
+wire 84.665 44.895 84.665 50.635 V 0.5
+wire 84.665 44.895 86.305 44.895 H 0.5
+wire 86.305 44.895 86.305 42.025 V 0.5
+wire 84.665 50.635 84.665 54.325 V 0.5
+wire 86.305 54.325 84.665 54.325 H 0.5
+wire 96.965 44.895 98.195 44.895 H 0.5
+wire 98.195 44.895 98.195 53.505 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L3_N0
+#Trunk_Term begin
+#Trunk u_uart_rx/edg_cnt_reg\[4\] CK 58.015 7.585
+#Trunk u_uart_rx/bit_cnt_reg\[3\] CK 95.325 10.455
+#Trunk_Term end
+wire 69.085 7.585 58.015 7.585 H 0.5
+wire 69.085 7.585 69.085 16.195 V 0.5
+wire 82.615 19.885 74.005 19.885 H 0.5
+wire 82.615 19.885 82.615 16.195 V 0.5
+wire 69.085 16.195 74.005 16.195 H 0.5
+wire 74.005 16.195 74.005 19.885 V 0.5
+wire 82.615 16.195 83.845 16.195 H 0.5
+wire 83.845 16.195 83.845 13.325 V 0.5
+wire 83.845 10.455 83.845 13.325 V 0.5
+wire 83.845 10.455 95.325 10.455 H 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L9_N0
+wire 45.715 60.065 32.185 60.065 H 0.5
+wire 32.185 60.065 32.185 42.025 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M
+wire 65.395 47.765 51.455 47.765 H 0.5
+wire 51.455 47.765 51.455 56.785 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M
+wire 75.645 59.245 74.415 59.245 H 0.5
+wire 74.415 59.245 74.415 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L4_N1
+#Trunk_Term begin
+#Trunk tx_rx_clk_M__L4_I1 Y 141.655 49.815
+#Trunk u_async_fifo/u_FIFO_RD/rempty_reg CK 121.565 10.455
+#Trunk u_uart_tx/current_state_reg\[1\] CK 115.005 79.335
+#Trunk_Term end
+wire 112.135 21.935 112.545 21.935 H 0.5
+wire 112.545 21.935 112.545 19.065 V 0.5
+wire 112.135 21.935 112.135 24.805 V 0.5
+wire 113.775 64.985 113.775 70.725 V 0.5
+wire 113.775 64.985 113.775 50.635 V 0.5
+wire 113.775 79.335 115.005 79.335 H 0.5
+wire 113.775 79.335 113.775 70.725 V 0.5
+wire 112.545 16.195 112.545 13.325 V 0.5
+wire 112.545 16.195 112.545 19.065 V 0.5
+wire 112.545 33.415 113.775 33.415 H 0.5
+wire 113.775 33.415 113.775 36.285 V 0.5
+wire 112.545 33.415 112.545 30.545 V 0.5
+wire 112.955 10.455 121.565 10.455 H 0.5
+wire 112.955 10.455 112.545 10.455 H 0.5
+wire 112.545 10.455 112.545 13.325 V 0.5
+wire 121.975 82.205 115.005 82.205 H 0.5
+wire 113.775 47.765 113.775 50.635 V 0.5
+wire 113.775 47.765 113.775 36.285 V 0.5
+wire 112.135 24.805 112.545 24.805 H 0.5
+wire 112.545 24.805 112.545 30.545 V 0.5
+wire 115.005 79.335 115.005 82.205 V 0.5
+wire 115.415 50.635 128.535 50.635 H 0.5
+wire 128.535 50.635 128.535 49.815 V 0.5
+wire 115.415 50.635 113.775 50.635 H 0.5
+wire 141.655 49.815 128.535 49.815 H 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L4_N0
+#Trunk_Term begin
+#Trunk tx_rx_clk_M__L4_I0 Y 133.045 49.815
+#Trunk u_async_fifo/RD_DATA_reg\[4\] CK 157.645 76.465
+#Trunk u_uart_tx/shift_reg_reg\[3\] CK 140.835 85.075
+#Trunk u_async_fifo/u_FIFO_RD/r_addr_reg\[0\] CK 154.365 16.195
+#Trunk_Term end
+wire 138.785 27.675 138.785 49.815 V 0.5
+wire 138.785 27.675 138.785 24.805 V 0.5
+wire 138.785 67.855 143.705 67.855 H 0.5
+wire 138.785 67.855 138.785 64.985 V 0.5
+wire 157.645 76.465 157.645 73.595 V 0.5
+wire 157.645 73.595 157.645 70.725 V 0.5
+wire 154.775 67.855 157.645 67.855 H 0.5
+wire 157.645 67.855 157.645 70.725 V 0.5
+wire 154.775 67.855 143.705 67.855 H 0.5
+wire 154.365 16.195 153.135 16.195 H 0.5
+wire 153.135 16.195 153.135 21.935 V 0.5
+wire 154.365 16.195 154.365 10.455 V 0.5
+wire 143.705 79.335 140.835 79.335 H 0.5
+wire 140.835 79.335 140.835 85.075 V 0.5
+wire 143.705 79.335 143.705 67.855 V 0.5
+wire 143.705 21.935 139.605 21.935 H 0.5
+wire 143.705 21.935 153.135 21.935 H 0.5
+wire 138.785 64.985 138.785 62.115 V 0.5
+wire 133.045 49.815 138.785 49.815 H 0.5
+wire 138.785 49.815 138.785 62.115 V 0.5
+wire 139.605 21.935 138.785 21.935 H 0.5
+wire 138.785 21.935 138.785 24.805 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L10_N0
+wire 39.155 42.025 34.645 42.025 H 0.5
+wire 34.645 42.025 34.645 42.845 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L1_N0
+wire 74.415 36.285 67.855 36.285 H 0.5
+wire 67.855 36.285 67.855 48.585 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L1_N0
+wire 124.845 53.915 77.285 53.915 H 0.5
+wire 77.285 53.915 77.285 60.065 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L11_N0
+#Trunk_Term begin
+#Trunk u_clk_div/counter_reg\[0\] CK 43.665 62.115
+#Trunk u_clk_div_rx/counter_reg\[3\] CK 10.455 30.545
+#Trunk UART_CLK_M__L11_I0 Y 39.565 42.845
+#Trunk_Term end
+wire 11.275 47.765 10.455 47.765 H 0.5
+wire 10.455 47.765 10.455 39.155 V 0.5
+wire 11.275 47.765 11.275 50.635 V 0.5
+wire 10.865 13.325 10.455 13.325 H 0.5
+wire 10.455 13.325 10.455 30.545 V 0.5
+wire 11.275 56.375 13.325 56.375 H 0.5
+wire 11.275 56.375 11.275 50.635 V 0.5
+wire 11.275 56.375 11.275 62.115 V 0.5
+wire 24.805 56.375 27.675 56.375 H 0.5
+wire 27.675 56.375 27.675 53.505 V 0.5
+wire 24.805 56.375 13.325 56.375 H 0.5
+wire 39.565 50.635 40.795 50.635 H 0.5
+wire 40.795 50.635 40.795 53.505 V 0.5
+wire 39.565 50.635 39.565 42.845 V 0.5
+wire 39.565 50.635 29.315 50.635 H 0.5
+wire 39.565 21.935 39.565 42.845 V 0.5
+wire 10.455 30.545 10.455 39.155 V 0.5
+wire 27.675 53.505 29.315 53.505 H 0.5
+wire 29.315 53.505 29.315 50.635 V 0.5
+wire 40.795 53.505 40.795 56.375 V 0.5
+wire 40.795 56.375 43.665 56.375 H 0.5
+wire 43.665 56.375 43.665 62.115 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L2_N0
+wire 74.825 37.105 73.595 37.105 H 0.5
+wire 73.595 37.105 73.595 19.065 V 0.5
+wire 85.895 53.505 74.825 53.505 H 0.5
+wire 74.825 53.505 74.825 37.105 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L2_N0
+wire 127.305 54.325 124.025 54.325 H 0.5
+wire 124.025 54.325 124.025 50.635 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L3_N1
+#Trunk_Term begin
+#Trunk rx_clk_M__L3_I1 Y 86.305 54.325
+#Trunk u_uart_rx/parity_err_reg CK 98.195 53.505
+#Trunk u_uart_rx/p_data_reg\[1\] CK 73.595 56.375
+#Trunk_Term end
+wire 96.965 42.025 86.305 42.025 H 0.5
+wire 96.965 42.025 96.965 44.895 V 0.5
+wire 70.315 56.375 73.595 56.375 H 0.5
+wire 82.615 56.375 73.595 56.375 H 0.5
+wire 82.615 56.375 84.665 56.375 H 0.5
+wire 84.665 56.375 84.665 54.325 V 0.5
+wire 84.665 44.895 84.665 50.635 V 0.5
+wire 84.665 44.895 86.305 44.895 H 0.5
+wire 86.305 44.895 86.305 42.025 V 0.5
+wire 84.665 50.635 84.665 54.325 V 0.5
+wire 86.305 54.325 84.665 54.325 H 0.5
+wire 96.965 44.895 98.195 44.895 H 0.5
+wire 98.195 44.895 98.195 53.505 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L3_N0
+#Trunk_Term begin
+#Trunk u_uart_rx/edg_cnt_reg\[4\] CK 58.015 7.585
+#Trunk u_uart_rx/bit_cnt_reg\[3\] CK 95.325 10.455
+#Trunk_Term end
+wire 69.085 7.585 58.015 7.585 H 0.5
+wire 69.085 7.585 69.085 16.195 V 0.5
+wire 82.615 19.885 74.005 19.885 H 0.5
+wire 82.615 19.885 82.615 16.195 V 0.5
+wire 69.085 16.195 74.005 16.195 H 0.5
+wire 74.005 16.195 74.005 19.885 V 0.5
+wire 82.615 16.195 83.845 16.195 H 0.5
+wire 83.845 16.195 83.845 13.325 V 0.5
+wire 83.845 10.455 83.845 13.325 V 0.5
+wire 83.845 10.455 95.325 10.455 H 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L3_N0
+wire 132.635 50.635 124.435 50.635 H 0.5
+wire 124.435 50.635 124.435 49.815 V 0.5
+wire 141.245 50.635 132.635 50.635 H 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L4_N1
+#Trunk_Term begin
+#Trunk tx_rx_clk_M__L4_I1 Y 141.655 49.815
+#Trunk u_async_fifo/u_FIFO_RD/rempty_reg CK 121.565 10.455
+#Trunk u_uart_tx/current_state_reg\[1\] CK 115.005 79.335
+#Trunk_Term end
+wire 112.135 21.935 112.545 21.935 H 0.5
+wire 112.545 21.935 112.545 19.065 V 0.5
+wire 112.135 21.935 112.135 24.805 V 0.5
+wire 113.775 64.985 113.775 70.725 V 0.5
+wire 113.775 64.985 113.775 50.635 V 0.5
+wire 113.775 79.335 115.005 79.335 H 0.5
+wire 113.775 79.335 113.775 70.725 V 0.5
+wire 112.545 16.195 112.545 13.325 V 0.5
+wire 112.545 16.195 112.545 19.065 V 0.5
+wire 112.545 33.415 113.775 33.415 H 0.5
+wire 113.775 33.415 113.775 36.285 V 0.5
+wire 112.545 33.415 112.545 30.545 V 0.5
+wire 112.955 10.455 121.565 10.455 H 0.5
+wire 112.955 10.455 112.545 10.455 H 0.5
+wire 112.545 10.455 112.545 13.325 V 0.5
+wire 121.975 82.205 115.005 82.205 H 0.5
+wire 113.775 47.765 113.775 50.635 V 0.5
+wire 113.775 47.765 113.775 36.285 V 0.5
+wire 112.135 24.805 112.545 24.805 H 0.5
+wire 112.545 24.805 112.545 30.545 V 0.5
+wire 115.005 79.335 115.005 82.205 V 0.5
+wire 115.415 50.635 128.535 50.635 H 0.5
+wire 128.535 50.635 128.535 49.815 V 0.5
+wire 115.415 50.635 113.775 50.635 H 0.5
+wire 141.655 49.815 128.535 49.815 H 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L4_N0
+#Trunk_Term begin
+#Trunk tx_rx_clk_M__L4_I0 Y 133.045 49.815
+#Trunk u_async_fifo/RD_DATA_reg\[4\] CK 157.645 76.465
+#Trunk u_uart_tx/shift_reg_reg\[3\] CK 140.835 85.075
+#Trunk u_async_fifo/u_FIFO_RD/r_addr_reg\[0\] CK 154.365 16.195
+#Trunk_Term end
+wire 138.785 27.675 138.785 49.815 V 0.5
+wire 138.785 27.675 138.785 24.805 V 0.5
+wire 138.785 67.855 143.705 67.855 H 0.5
+wire 138.785 67.855 138.785 64.985 V 0.5
+wire 157.645 76.465 157.645 73.595 V 0.5
+wire 157.645 73.595 157.645 70.725 V 0.5
+wire 154.775 67.855 157.645 67.855 H 0.5
+wire 157.645 67.855 157.645 70.725 V 0.5
+wire 154.775 67.855 143.705 67.855 H 0.5
+wire 154.365 16.195 153.135 16.195 H 0.5
+wire 153.135 16.195 153.135 21.935 V 0.5
+wire 154.365 16.195 154.365 10.455 V 0.5
+wire 143.705 79.335 140.835 79.335 H 0.5
+wire 140.835 79.335 140.835 85.075 V 0.5
+wire 143.705 79.335 143.705 67.855 V 0.5
+wire 143.705 21.935 139.605 21.935 H 0.5
+wire 143.705 21.935 153.135 21.935 H 0.5
+wire 138.785 64.985 138.785 62.115 V 0.5
+wire 133.045 49.815 138.785 49.815 H 0.5
+wire 138.785 49.815 138.785 62.115 V 0.5
+wire 139.605 21.935 138.785 21.935 H 0.5
+wire 138.785 21.935 138.785 24.805 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk
+wire 13.325 90.815 0 90.815 H 0.5
+wire 0 90.815 0 90.1 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L1_N0
+wire 13.735 89.995 6.765 89.995 H 0.5
+wire 6.765 89.995 6.765 42.025 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L2_N0
+wire 6.355 44.895 6.765 44.895 H 0.5
+wire 6.765 59.655 6.765 53.915 V 0.5
+wire 7.585 42.845 6.765 42.845 H 0.5
+wire 6.765 42.845 6.765 44.895 V 0.5
+wire 14.555 53.915 6.765 53.915 H 0.5
+wire 6.765 44.895 6.765 53.915 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L3_N0
+wire 8.815 44.075 6.355 44.075 H 0.5
+wire 6.355 44.075 6.355 7.585 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M
+wire 26.445 59.245 10.045 59.245 H 0.5
+wire 10.045 59.245 10.045 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M
+wire 33.825 67.855 17.835 67.855 H 0.5
+wire 17.835 67.855 17.835 53.095 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L4_N0
+wire 28.495 47.765 8.815 47.765 H 0.5
+wire 8.815 47.765 8.815 8.405 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L1_N0
+wire 26.855 58.835 26.855 59.245 V 0.5
+wire 24.395 59.245 26.855 59.245 H 0.5
+wire 26.855 59.245 28.085 59.245 H 0.5
+wire 28.085 59.245 28.085 64.985 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L1_N0
+wire 35.055 64.985 34.235 64.985 H 0.5
+wire 34.235 64.985 34.235 68.265 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L5_N0
+wire 30.955 48.585 30.135 48.585 H 0.5
+wire 30.135 48.585 30.135 87.945 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L2_N1
+wire 30.545 65.805 9.635 65.805 H 0.5
+wire 9.635 65.805 9.635 16.195 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L2_N0
+wire 38.745 44.895 38.745 56.375 V 0.5
+wire 24.805 58.835 38.745 58.835 H 0.5
+wire 38.745 58.835 38.745 56.375 V 0.5
+wire 21.525 64.985 24.805 64.985 H 0.5
+wire 24.805 64.985 24.805 58.835 V 0.5
+wire 38.745 56.375 56.785 56.375 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L2_N0
+wire 58.015 64.985 37.925 64.985 H 0.5
+wire 37.925 64.985 37.925 65.805 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L6_N0
+wire 30.545 88.765 28.085 88.765 H 0.5
+wire 28.085 88.765 28.085 93.685 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L3_N1
+wire 23.575 7.585 12.095 7.585 H 0.5
+wire 12.095 7.585 12.095 15.375 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L3_N0
+wire 23.575 65.805 23.165 65.805 H 0.5
+wire 23.165 65.805 23.165 56.375 V 0.5
+endRouteGuideNet
+routeGuideNet n19
+wire 66.625 59.245 63.345 59.245 H 0.5
+wire 63.345 59.245 63.345 55.555 V 0.5
+endRouteGuideNet
+routeGuideNet n18
+wire 50.635 53.505 45.305 53.505 H 0.5
+wire 45.305 53.505 45.305 44.075 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L3_N0
+wire 58.425 65.805 29.725 65.805 H 0.5
+wire 29.725 65.805 29.725 56.375 V 0.5
+wire 92.865 108.035 58.425 108.035 H 0.5
+wire 58.425 108.035 58.425 65.805 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L7_N0
+wire 30.545 94.505 15.375 94.505 H 0.5
+wire 15.375 94.505 15.375 130.995 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L4_N1
+wire 37.515 16.195 26.035 16.195 H 0.5
+wire 26.035 16.195 26.035 8.405 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L4_N0
+wire 55.555 53.505 25.625 53.505 H 0.5
+wire 25.625 53.505 25.625 55.555 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk
+wire 72.365 59.245 67.855 59.245 H 0.5
+wire 67.855 59.245 67.855 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk
+wire 49.405 56.375 49.405 53.095 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L4_N1
+wire 98.605 108.035 93.275 108.035 H 0.5
+wire 93.275 108.035 93.275 108.445 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L4_N0
+wire 46.535 85.075 32.185 85.075 H 0.5
+wire 32.185 85.075 32.185 55.555 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L8_N0
+wire 17.835 130.175 6.355 130.175 H 0.5
+wire 6.355 130.175 6.355 90.815 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L5_N1
+wire 57.195 59.245 39.975 59.245 H 0.5
+wire 39.975 59.245 39.975 15.375 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L5_N0
+wire 58.015 54.325 53.505 54.325 H 0.5
+wire 53.505 54.325 53.505 50.635 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M
+wire 75.645 59.245 74.415 59.245 H 0.5
+wire 74.415 59.245 74.415 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M
+wire 65.395 47.765 51.455 47.765 H 0.5
+wire 51.455 47.765 51.455 56.785 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L5_N1
+wire 98.195 107.215 90.405 107.215 H 0.5
+wire 90.405 107.215 90.405 108.035 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L5_N0
+wire 77.285 105.165 48.995 105.165 H 0.5
+wire 48.995 105.165 48.995 84.255 V 0.5
+wire 86.305 113.365 77.285 113.365 H 0.5
+wire 77.285 113.365 77.285 105.165 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L9_N0
+wire 30.135 85.075 8.815 85.075 H 0.5
+wire 8.815 85.075 8.815 89.995 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L6_N1
+wire 59.655 60.065 37.105 60.065 H 0.5
+wire 37.105 60.065 37.105 102.295 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L6_N0
+wire 62.525 53.505 53.915 53.505 H 0.5
+wire 53.915 53.505 53.915 49.815 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L1_N0
+wire 124.845 53.915 77.285 53.915 H 0.5
+wire 77.285 53.915 77.285 60.065 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L1_N0
+wire 74.415 36.285 67.855 36.285 H 0.5
+wire 67.855 36.285 67.855 48.585 V 0.5
+endRouteGuideNet
+routeGuideNet g_clk/en_latched
+wire 85.895 108.035 74.415 108.035 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L6_N1
+wire 94.095 99.835 88.765 99.835 H 0.5
+wire 88.765 99.835 88.765 112.955 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L6_N0
+wire 77.695 104.755 75.235 104.755 H 0.5
+wire 75.235 104.755 75.235 108.035 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L10_N0
+wire 64.985 82.205 29.725 82.205 H 0.5
+wire 29.725 82.205 29.725 84.255 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L7_N1
+wire 39.565 101.475 36.695 101.475 H 0.5
+wire 36.695 101.475 36.695 59.245 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L7_N0
+wire 62.115 54.325 52.685 54.325 H 0.5
+wire 52.685 54.325 52.685 53.505 V 0.5
+wire 64.575 59.245 62.115 59.245 H 0.5
+wire 62.115 59.245 62.115 54.325 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L2_N0
+wire 127.305 54.325 124.025 54.325 H 0.5
+wire 124.025 54.325 124.025 50.635 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L2_N0
+wire 74.825 37.105 73.595 37.105 H 0.5
+wire 73.595 37.105 73.595 19.065 V 0.5
+wire 85.895 53.505 74.825 53.505 H 0.5
+wire 74.825 53.505 74.825 37.105 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk
+wire 72.775 107.625 72.775 99.425 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L7_N1
+wire 110.495 94.095 96.555 94.095 H 0.5
+wire 96.555 94.095 96.555 100.245 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L7_N0
+wire 74.825 107.215 73.595 107.215 H 0.5
+wire 73.595 107.215 73.595 108.035 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L11_N0
+wire 65.395 83.025 56.375 83.025 H 0.5
+wire 56.375 83.025 56.375 85.075 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L8_N0
+wire 43.255 59.245 39.155 59.245 H 0.5
+wire 39.155 59.245 39.155 60.065 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk
+wire 49.405 56.375 49.405 53.095 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk
+wire 72.365 59.245 67.855 59.245 H 0.5
+wire 67.855 59.245 67.855 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L3_N0
+wire 132.635 50.635 124.435 50.635 H 0.5
+wire 124.435 50.635 124.435 49.815 V 0.5
+wire 141.245 50.635 132.635 50.635 H 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L3_N1
+#Trunk_Term begin
+#Trunk rx_clk_M__L3_I1 Y 86.305 54.325
+#Trunk u_uart_rx/parity_err_reg CK 98.195 53.505
+#Trunk u_uart_rx/p_data_reg\[1\] CK 73.595 56.375
+#Trunk_Term end
+wire 96.965 42.025 86.305 42.025 H 0.5
+wire 96.965 42.025 96.965 44.895 V 0.5
+wire 70.315 56.375 73.595 56.375 H 0.5
+wire 82.615 56.375 73.595 56.375 H 0.5
+wire 82.615 56.375 84.665 56.375 H 0.5
+wire 84.665 56.375 84.665 54.325 V 0.5
+wire 84.665 44.895 84.665 50.635 V 0.5
+wire 84.665 44.895 86.305 44.895 H 0.5
+wire 86.305 44.895 86.305 42.025 V 0.5
+wire 84.665 50.635 84.665 54.325 V 0.5
+wire 86.305 54.325 84.665 54.325 H 0.5
+wire 96.965 44.895 98.195 44.895 H 0.5
+wire 98.195 44.895 98.195 53.505 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L3_N0
+#Trunk_Term begin
+#Trunk u_uart_rx/edg_cnt_reg\[4\] CK 58.015 7.585
+#Trunk u_uart_rx/bit_cnt_reg\[3\] CK 95.325 10.455
+#Trunk_Term end
+wire 69.085 7.585 58.015 7.585 H 0.5
+wire 69.085 7.585 69.085 16.195 V 0.5
+wire 82.615 19.885 74.005 19.885 H 0.5
+wire 82.615 19.885 82.615 16.195 V 0.5
+wire 69.085 16.195 74.005 16.195 H 0.5
+wire 74.005 16.195 74.005 19.885 V 0.5
+wire 82.615 16.195 83.845 16.195 H 0.5
+wire 83.845 16.195 83.845 13.325 V 0.5
+wire 83.845 10.455 83.845 13.325 V 0.5
+wire 83.845 10.455 95.325 10.455 H 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M
+wire 76.055 99.425 74.825 99.425 H 0.5
+wire 74.825 99.425 74.825 99.015 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L8_N0
+wire 112.955 94.505 109.265 94.505 H 0.5
+wire 109.265 94.505 109.265 90.815 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk
+wire 72.775 107.625 72.775 99.425 V 0.5
+endRouteGuideNet
+routeGuideNet scan_clk__L12_N0
+wire 71.135 59.655 71.135 84.255 V 0.5
+wire 55.965 84.255 71.135 84.255 H 0.5
+wire 48.175 55.965 71.135 55.965 H 0.5
+wire 71.135 55.965 71.135 59.655 V 0.5
+wire 71.135 84.255 71.545 84.255 H 0.5
+wire 71.545 84.255 71.545 99.835 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L9_N0
+wire 45.715 60.065 32.185 60.065 H 0.5
+wire 32.185 60.065 32.185 42.025 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M
+wire 65.395 47.765 51.455 47.765 H 0.5
+wire 51.455 47.765 51.455 56.785 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M
+wire 75.645 59.245 74.415 59.245 H 0.5
+wire 74.415 59.245 74.415 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L4_N1
+#Trunk_Term begin
+#Trunk tx_rx_clk_M__L4_I1 Y 141.655 49.815
+#Trunk u_async_fifo/u_FIFO_RD/rempty_reg CK 121.565 10.455
+#Trunk u_uart_tx/current_state_reg\[1\] CK 115.005 79.335
+#Trunk_Term end
+wire 112.135 21.935 112.545 21.935 H 0.5
+wire 112.545 21.935 112.545 19.065 V 0.5
+wire 112.135 21.935 112.135 24.805 V 0.5
+wire 113.775 64.985 113.775 70.725 V 0.5
+wire 113.775 64.985 113.775 50.635 V 0.5
+wire 113.775 79.335 115.005 79.335 H 0.5
+wire 113.775 79.335 113.775 70.725 V 0.5
+wire 112.545 16.195 112.545 13.325 V 0.5
+wire 112.545 16.195 112.545 19.065 V 0.5
+wire 112.545 33.415 113.775 33.415 H 0.5
+wire 113.775 33.415 113.775 36.285 V 0.5
+wire 112.545 33.415 112.545 30.545 V 0.5
+wire 112.955 10.455 121.565 10.455 H 0.5
+wire 112.955 10.455 112.545 10.455 H 0.5
+wire 112.545 10.455 112.545 13.325 V 0.5
+wire 121.975 82.205 115.005 82.205 H 0.5
+wire 113.775 47.765 113.775 50.635 V 0.5
+wire 113.775 47.765 113.775 36.285 V 0.5
+wire 112.135 24.805 112.545 24.805 H 0.5
+wire 112.545 24.805 112.545 30.545 V 0.5
+wire 115.005 79.335 115.005 82.205 V 0.5
+wire 115.415 50.635 128.535 50.635 H 0.5
+wire 128.535 50.635 128.535 49.815 V 0.5
+wire 115.415 50.635 113.775 50.635 H 0.5
+wire 141.655 49.815 128.535 49.815 H 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L4_N0
+#Trunk_Term begin
+#Trunk tx_rx_clk_M__L4_I0 Y 133.045 49.815
+#Trunk u_async_fifo/RD_DATA_reg\[4\] CK 157.645 76.465
+#Trunk u_uart_tx/shift_reg_reg\[3\] CK 140.835 85.075
+#Trunk u_async_fifo/u_FIFO_RD/r_addr_reg\[0\] CK 154.365 16.195
+#Trunk_Term end
+wire 138.785 27.675 138.785 49.815 V 0.5
+wire 138.785 27.675 138.785 24.805 V 0.5
+wire 138.785 67.855 143.705 67.855 H 0.5
+wire 138.785 67.855 138.785 64.985 V 0.5
+wire 157.645 76.465 157.645 73.595 V 0.5
+wire 157.645 73.595 157.645 70.725 V 0.5
+wire 154.775 67.855 157.645 67.855 H 0.5
+wire 157.645 67.855 157.645 70.725 V 0.5
+wire 154.775 67.855 143.705 67.855 H 0.5
+wire 154.365 16.195 153.135 16.195 H 0.5
+wire 153.135 16.195 153.135 21.935 V 0.5
+wire 154.365 16.195 154.365 10.455 V 0.5
+wire 143.705 79.335 140.835 79.335 H 0.5
+wire 140.835 79.335 140.835 85.075 V 0.5
+wire 143.705 79.335 143.705 67.855 V 0.5
+wire 143.705 21.935 139.605 21.935 H 0.5
+wire 143.705 21.935 153.135 21.935 H 0.5
+wire 138.785 64.985 138.785 62.115 V 0.5
+wire 133.045 49.815 138.785 49.815 H 0.5
+wire 138.785 49.815 138.785 62.115 V 0.5
+wire 139.605 21.935 138.785 21.935 H 0.5
+wire 138.785 21.935 138.785 24.805 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L1_N0
+wire 155.185 128.125 77.695 128.125 H 0.5
+wire 77.695 128.125 77.695 100.245 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L9_N0
+wire 110.085 96.555 109.675 96.555 H 0.5
+wire 109.675 96.555 109.675 89.995 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M
+wire 76.055 99.425 74.825 99.425 H 0.5
+wire 74.825 99.425 74.825 99.015 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M
+wire 75.645 59.245 74.415 59.245 H 0.5
+wire 74.415 59.245 74.415 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M
+wire 76.055 99.425 74.825 99.425 H 0.5
+wire 74.825 99.425 74.825 99.015 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M
+wire 65.395 47.765 51.455 47.765 H 0.5
+wire 51.455 47.765 51.455 56.785 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L10_N0
+wire 39.155 42.025 34.645 42.025 H 0.5
+wire 34.645 42.025 34.645 42.845 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L1_N0
+wire 74.415 36.285 67.855 36.285 H 0.5
+wire 67.855 36.285 67.855 48.585 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L1_N0
+wire 124.845 53.915 77.285 53.915 H 0.5
+wire 77.285 53.915 77.285 60.065 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L2_N0
+wire 162.565 130.995 157.235 130.995 H 0.5
+wire 157.235 130.995 157.235 128.945 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L10_N0
+wire 110.495 95.735 60.475 95.735 H 0.5
+wire 60.475 95.735 60.475 125.255 V 0.5
+wire 180.195 64.985 110.495 64.985 H 0.5
+wire 110.495 64.985 110.495 95.735 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L1_N0
+wire 155.185 128.125 77.695 128.125 H 0.5
+wire 77.695 128.125 77.695 100.245 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L1_N0
+wire 124.845 53.915 77.285 53.915 H 0.5
+wire 77.285 53.915 77.285 60.065 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L1_N0
+wire 155.185 128.125 77.695 128.125 H 0.5
+wire 77.695 128.125 77.695 100.245 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L1_N0
+wire 74.415 36.285 67.855 36.285 H 0.5
+wire 67.855 36.285 67.855 48.585 V 0.5
+endRouteGuideNet
+routeGuideNet UART_CLK_M__L11_N0
+#Trunk_Term begin
+#Trunk u_clk_div/counter_reg\[0\] CK 43.665 62.115
+#Trunk u_clk_div_rx/counter_reg\[3\] CK 10.455 30.545
+#Trunk UART_CLK_M__L11_I0 Y 39.565 42.845
+#Trunk_Term end
+wire 11.275 47.765 10.455 47.765 H 0.5
+wire 10.455 47.765 10.455 39.155 V 0.5
+wire 11.275 47.765 11.275 50.635 V 0.5
+wire 10.865 13.325 10.455 13.325 H 0.5
+wire 10.455 13.325 10.455 30.545 V 0.5
+wire 11.275 56.375 13.325 56.375 H 0.5
+wire 11.275 56.375 11.275 50.635 V 0.5
+wire 11.275 56.375 11.275 62.115 V 0.5
+wire 24.805 56.375 27.675 56.375 H 0.5
+wire 27.675 56.375 27.675 53.505 V 0.5
+wire 24.805 56.375 13.325 56.375 H 0.5
+wire 39.565 50.635 40.795 50.635 H 0.5
+wire 40.795 50.635 40.795 53.505 V 0.5
+wire 39.565 50.635 39.565 42.845 V 0.5
+wire 39.565 50.635 29.315 50.635 H 0.5
+wire 39.565 21.935 39.565 42.845 V 0.5
+wire 10.455 30.545 10.455 39.155 V 0.5
+wire 27.675 53.505 29.315 53.505 H 0.5
+wire 29.315 53.505 29.315 50.635 V 0.5
+wire 40.795 53.505 40.795 56.375 V 0.5
+wire 40.795 56.375 43.665 56.375 H 0.5
+wire 43.665 56.375 43.665 62.115 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L2_N0
+wire 74.825 37.105 73.595 37.105 H 0.5
+wire 73.595 37.105 73.595 19.065 V 0.5
+wire 85.895 53.505 74.825 53.505 H 0.5
+wire 74.825 53.505 74.825 37.105 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L2_N0
+wire 127.305 54.325 124.025 54.325 H 0.5
+wire 124.025 54.325 124.025 50.635 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L3_N0
+wire 169.535 130.995 162.155 130.995 H 0.5
+wire 162.155 130.995 162.155 130.175 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L11_N1
+wire 60.885 124.435 48.995 124.435 H 0.5
+wire 48.995 124.435 48.995 156.825 V 0.5
+wire 73.185 93.685 60.885 93.685 H 0.5
+wire 60.885 93.685 60.885 124.435 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L11_N0
+wire 180.195 36.285 180.195 65.805 V 0.5
+wire 179.785 99.425 180.195 99.425 H 0.5
+wire 180.195 99.425 180.195 65.805 V 0.5
+wire 180.195 65.805 180.605 65.805 H 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L2_N0
+wire 162.565 130.995 157.235 130.995 H 0.5
+wire 157.235 130.995 157.235 128.945 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L2_N0
+wire 127.305 54.325 124.025 54.325 H 0.5
+wire 124.025 54.325 124.025 50.635 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L2_N0
+wire 162.565 130.995 157.235 130.995 H 0.5
+wire 157.235 130.995 157.235 128.945 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L2_N0
+wire 74.825 37.105 73.595 37.105 H 0.5
+wire 73.595 37.105 73.595 19.065 V 0.5
+wire 85.895 53.505 74.825 53.505 H 0.5
+wire 74.825 53.505 74.825 37.105 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L3_N1
+#Trunk_Term begin
+#Trunk rx_clk_M__L3_I1 Y 86.305 54.325
+#Trunk u_uart_rx/parity_err_reg CK 98.195 53.505
+#Trunk u_uart_rx/p_data_reg\[1\] CK 73.595 56.375
+#Trunk_Term end
+wire 96.965 42.025 86.305 42.025 H 0.5
+wire 96.965 42.025 96.965 44.895 V 0.5
+wire 70.315 56.375 73.595 56.375 H 0.5
+wire 82.615 56.375 73.595 56.375 H 0.5
+wire 82.615 56.375 84.665 56.375 H 0.5
+wire 84.665 56.375 84.665 54.325 V 0.5
+wire 84.665 44.895 84.665 50.635 V 0.5
+wire 84.665 44.895 86.305 44.895 H 0.5
+wire 86.305 44.895 86.305 42.025 V 0.5
+wire 84.665 50.635 84.665 54.325 V 0.5
+wire 86.305 54.325 84.665 54.325 H 0.5
+wire 96.965 44.895 98.195 44.895 H 0.5
+wire 98.195 44.895 98.195 53.505 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L3_N0
+#Trunk_Term begin
+#Trunk u_uart_rx/edg_cnt_reg\[4\] CK 58.015 7.585
+#Trunk u_uart_rx/bit_cnt_reg\[3\] CK 95.325 10.455
+#Trunk_Term end
+wire 69.085 7.585 58.015 7.585 H 0.5
+wire 69.085 7.585 69.085 16.195 V 0.5
+wire 82.615 19.885 74.005 19.885 H 0.5
+wire 82.615 19.885 82.615 16.195 V 0.5
+wire 69.085 16.195 74.005 16.195 H 0.5
+wire 74.005 16.195 74.005 19.885 V 0.5
+wire 82.615 16.195 83.845 16.195 H 0.5
+wire 83.845 16.195 83.845 13.325 V 0.5
+wire 83.845 10.455 83.845 13.325 V 0.5
+wire 83.845 10.455 95.325 10.455 H 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L3_N0
+wire 132.635 50.635 124.435 50.635 H 0.5
+wire 124.435 50.635 124.435 49.815 V 0.5
+wire 141.245 50.635 132.635 50.635 H 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L4_N0
+#Trunk_Term begin
+#Trunk u_alu/ALU_OUT_reg\[3\] CK 140.835 153.955
+#Trunk u_alu/ALU_OUT_reg\[2\] CK 140.015 125.255
+#Trunk u_alu/ALU_OUT_reg\[10\] CK 172.405 133.865
+#Trunk_Term end
+wire 157.645 125.255 158.055 125.255 H 0.5
+wire 157.645 125.255 157.645 130.995 V 0.5
+wire 157.645 125.255 140.015 125.255 H 0.5
+wire 183.065 136.735 172.405 136.735 H 0.5
+wire 153.135 145.345 153.135 153.955 V 0.5
+wire 153.135 145.345 154.775 145.345 H 0.5
+wire 154.775 145.345 154.775 139.605 V 0.5
+wire 140.835 153.955 153.135 153.955 H 0.5
+wire 154.775 139.605 157.645 139.605 H 0.5
+wire 157.645 139.605 157.645 130.995 V 0.5
+wire 158.055 125.255 169.535 125.255 H 0.5
+wire 169.535 125.255 169.945 125.255 H 0.5
+wire 169.945 125.255 169.945 130.175 V 0.5
+wire 169.945 130.175 172.405 130.175 H 0.5
+wire 172.405 130.175 172.405 133.865 V 0.5
+wire 172.405 133.865 172.405 136.735 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L12_N3
+wire 49.405 157.645 48.995 157.645 H 0.5
+wire 48.995 157.645 48.995 174.045 V 0.5
+wire 50.635 145.345 49.405 145.345 H 0.5
+wire 49.405 145.345 49.405 157.645 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L12_N2
+wire 73.595 94.505 73.595 96.555 V 0.5
+wire 47.765 96.555 73.595 96.555 H 0.5
+wire 73.595 96.555 95.325 96.555 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L12_N1
+wire 180.195 100.245 153.955 100.245 H 0.5
+wire 153.955 100.245 153.955 93.685 V 0.5
+wire 205.205 110.905 180.195 110.905 H 0.5
+wire 180.195 110.905 180.195 100.245 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L12_N0
+wire 180.605 37.105 161.335 37.105 H 0.5
+wire 161.335 37.105 161.335 50.635 V 0.5
+wire 203.975 27.675 180.605 27.675 H 0.5
+wire 180.605 27.675 180.605 37.105 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L3_N0
+wire 169.535 130.995 162.155 130.995 H 0.5
+wire 162.155 130.995 162.155 130.175 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L3_N0
+wire 132.635 50.635 124.435 50.635 H 0.5
+wire 124.435 50.635 124.435 49.815 V 0.5
+wire 141.245 50.635 132.635 50.635 H 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L3_N0
+wire 169.535 130.995 162.155 130.995 H 0.5
+wire 162.155 130.995 162.155 130.175 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L3_N1
+#Trunk_Term begin
+#Trunk rx_clk_M__L3_I1 Y 86.305 54.325
+#Trunk u_uart_rx/parity_err_reg CK 98.195 53.505
+#Trunk u_uart_rx/p_data_reg\[1\] CK 73.595 56.375
+#Trunk_Term end
+wire 96.965 42.025 86.305 42.025 H 0.5
+wire 96.965 42.025 96.965 44.895 V 0.5
+wire 70.315 56.375 73.595 56.375 H 0.5
+wire 82.615 56.375 73.595 56.375 H 0.5
+wire 82.615 56.375 84.665 56.375 H 0.5
+wire 84.665 56.375 84.665 54.325 V 0.5
+wire 84.665 44.895 84.665 50.635 V 0.5
+wire 84.665 44.895 86.305 44.895 H 0.5
+wire 86.305 44.895 86.305 42.025 V 0.5
+wire 84.665 50.635 84.665 54.325 V 0.5
+wire 86.305 54.325 84.665 54.325 H 0.5
+wire 96.965 44.895 98.195 44.895 H 0.5
+wire 98.195 44.895 98.195 53.505 V 0.5
+endRouteGuideNet
+routeGuideNet rx_clk_M__L3_N0
+#Trunk_Term begin
+#Trunk u_uart_rx/edg_cnt_reg\[4\] CK 58.015 7.585
+#Trunk u_uart_rx/bit_cnt_reg\[3\] CK 95.325 10.455
+#Trunk_Term end
+wire 69.085 7.585 58.015 7.585 H 0.5
+wire 69.085 7.585 69.085 16.195 V 0.5
+wire 82.615 19.885 74.005 19.885 H 0.5
+wire 82.615 19.885 82.615 16.195 V 0.5
+wire 69.085 16.195 74.005 16.195 H 0.5
+wire 74.005 16.195 74.005 19.885 V 0.5
+wire 82.615 16.195 83.845 16.195 H 0.5
+wire 83.845 16.195 83.845 13.325 V 0.5
+wire 83.845 10.455 83.845 13.325 V 0.5
+wire 83.845 10.455 95.325 10.455 H 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L4_N1
+#Trunk_Term begin
+#Trunk tx_rx_clk_M__L4_I1 Y 141.655 49.815
+#Trunk u_async_fifo/u_FIFO_RD/rempty_reg CK 121.565 10.455
+#Trunk u_uart_tx/current_state_reg\[1\] CK 115.005 79.335
+#Trunk_Term end
+wire 112.135 21.935 112.545 21.935 H 0.5
+wire 112.545 21.935 112.545 19.065 V 0.5
+wire 112.135 21.935 112.135 24.805 V 0.5
+wire 113.775 64.985 113.775 70.725 V 0.5
+wire 113.775 64.985 113.775 50.635 V 0.5
+wire 113.775 79.335 115.005 79.335 H 0.5
+wire 113.775 79.335 113.775 70.725 V 0.5
+wire 112.545 16.195 112.545 13.325 V 0.5
+wire 112.545 16.195 112.545 19.065 V 0.5
+wire 112.545 33.415 113.775 33.415 H 0.5
+wire 113.775 33.415 113.775 36.285 V 0.5
+wire 112.545 33.415 112.545 30.545 V 0.5
+wire 112.955 10.455 121.565 10.455 H 0.5
+wire 112.955 10.455 112.545 10.455 H 0.5
+wire 112.545 10.455 112.545 13.325 V 0.5
+wire 121.975 82.205 115.005 82.205 H 0.5
+wire 113.775 47.765 113.775 50.635 V 0.5
+wire 113.775 47.765 113.775 36.285 V 0.5
+wire 112.135 24.805 112.545 24.805 H 0.5
+wire 112.545 24.805 112.545 30.545 V 0.5
+wire 115.005 79.335 115.005 82.205 V 0.5
+wire 115.415 50.635 128.535 50.635 H 0.5
+wire 128.535 50.635 128.535 49.815 V 0.5
+wire 115.415 50.635 113.775 50.635 H 0.5
+wire 141.655 49.815 128.535 49.815 H 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L4_N0
+#Trunk_Term begin
+#Trunk tx_rx_clk_M__L4_I0 Y 133.045 49.815
+#Trunk u_async_fifo/RD_DATA_reg\[4\] CK 157.645 76.465
+#Trunk u_uart_tx/shift_reg_reg\[3\] CK 140.835 85.075
+#Trunk u_async_fifo/u_FIFO_RD/r_addr_reg\[0\] CK 154.365 16.195
+#Trunk_Term end
+wire 138.785 27.675 138.785 49.815 V 0.5
+wire 138.785 27.675 138.785 24.805 V 0.5
+wire 138.785 67.855 143.705 67.855 H 0.5
+wire 138.785 67.855 138.785 64.985 V 0.5
+wire 157.645 76.465 157.645 73.595 V 0.5
+wire 157.645 73.595 157.645 70.725 V 0.5
+wire 154.775 67.855 157.645 67.855 H 0.5
+wire 157.645 67.855 157.645 70.725 V 0.5
+wire 154.775 67.855 143.705 67.855 H 0.5
+wire 154.365 16.195 153.135 16.195 H 0.5
+wire 153.135 16.195 153.135 21.935 V 0.5
+wire 154.365 16.195 154.365 10.455 V 0.5
+wire 143.705 79.335 140.835 79.335 H 0.5
+wire 140.835 79.335 140.835 85.075 V 0.5
+wire 143.705 79.335 143.705 67.855 V 0.5
+wire 143.705 21.935 139.605 21.935 H 0.5
+wire 143.705 21.935 153.135 21.935 H 0.5
+wire 138.785 64.985 138.785 62.115 V 0.5
+wire 133.045 49.815 138.785 49.815 H 0.5
+wire 138.785 49.815 138.785 62.115 V 0.5
+wire 139.605 21.935 138.785 21.935 H 0.5
+wire 138.785 21.935 138.785 24.805 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N7
+wire 49.405 174.865 69.905 174.865 H 0.5
+wire 69.905 174.865 69.905 194.135 V 0.5
+wire 28.085 162.565 28.085 174.865 V 0.5
+wire 26.445 194.135 28.085 194.135 H 0.5
+wire 28.085 194.135 28.085 174.865 V 0.5
+wire 28.085 174.865 49.405 174.865 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N6
+wire 51.045 146.165 24.805 146.165 H 0.5
+wire 24.805 146.165 24.805 136.735 V 0.5
+wire 67.445 156.825 51.045 156.825 H 0.5
+wire 51.045 156.825 51.045 146.165 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N5
+wire 95.735 95.735 92.045 95.735 H 0.5
+wire 92.045 95.735 92.045 130.995 V 0.5
+wire 101.885 62.115 95.735 62.115 H 0.5
+wire 95.735 62.115 95.735 95.735 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N4
+wire 48.175 95.735 30.135 95.735 H 0.5
+wire 30.135 95.735 30.135 102.295 V 0.5
+wire 63.755 93.685 48.175 93.685 H 0.5
+wire 48.175 93.685 48.175 95.735 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N3
+wire 205.615 111.725 205.615 102.295 V 0.5
+wire 196.185 99.425 205.615 99.425 H 0.5
+wire 205.615 99.425 205.615 102.295 V 0.5
+wire 193.315 125.255 205.615 125.255 H 0.5
+wire 205.615 125.255 205.615 111.725 V 0.5
+wire 205.615 102.295 219.555 102.295 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N2
+wire 154.365 94.505 135.915 94.505 H 0.5
+wire 135.915 94.505 135.915 110.905 V 0.5
+wire 171.995 85.075 154.365 85.075 H 0.5
+wire 154.365 85.075 154.365 94.505 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N1
+wire 204.385 26.855 183.885 26.855 H 0.5
+wire 183.885 26.855 183.885 21.935 V 0.5
+wire 219.145 39.155 204.385 39.155 H 0.5
+wire 204.385 39.155 204.385 26.855 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L13_N0
+wire 161.745 49.815 139.195 49.815 H 0.5
+wire 139.195 49.815 139.195 44.895 V 0.5
+wire 183.885 56.375 161.745 56.375 H 0.5
+wire 161.745 56.375 161.745 49.815 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L4_N0
+#Trunk_Term begin
+#Trunk u_alu/ALU_OUT_reg\[3\] CK 140.835 153.955
+#Trunk u_alu/ALU_OUT_reg\[2\] CK 140.015 125.255
+#Trunk u_alu/ALU_OUT_reg\[10\] CK 172.405 133.865
+#Trunk_Term end
+wire 157.645 125.255 158.055 125.255 H 0.5
+wire 157.645 125.255 157.645 130.995 V 0.5
+wire 157.645 125.255 140.015 125.255 H 0.5
+wire 183.065 136.735 172.405 136.735 H 0.5
+wire 153.135 145.345 153.135 153.955 V 0.5
+wire 153.135 145.345 154.775 145.345 H 0.5
+wire 154.775 145.345 154.775 139.605 V 0.5
+wire 140.835 153.955 153.135 153.955 H 0.5
+wire 154.775 139.605 157.645 139.605 H 0.5
+wire 157.645 139.605 157.645 130.995 V 0.5
+wire 158.055 125.255 169.535 125.255 H 0.5
+wire 169.535 125.255 169.945 125.255 H 0.5
+wire 169.945 125.255 169.945 130.175 V 0.5
+wire 169.945 130.175 172.405 130.175 H 0.5
+wire 172.405 130.175 172.405 133.865 V 0.5
+wire 172.405 133.865 172.405 136.735 V 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L4_N1
+#Trunk_Term begin
+#Trunk tx_rx_clk_M__L4_I1 Y 141.655 49.815
+#Trunk u_async_fifo/u_FIFO_RD/rempty_reg CK 121.565 10.455
+#Trunk u_uart_tx/current_state_reg\[1\] CK 115.005 79.335
+#Trunk_Term end
+wire 112.135 21.935 112.545 21.935 H 0.5
+wire 112.545 21.935 112.545 19.065 V 0.5
+wire 112.135 21.935 112.135 24.805 V 0.5
+wire 113.775 64.985 113.775 70.725 V 0.5
+wire 113.775 64.985 113.775 50.635 V 0.5
+wire 113.775 79.335 115.005 79.335 H 0.5
+wire 113.775 79.335 113.775 70.725 V 0.5
+wire 112.545 16.195 112.545 13.325 V 0.5
+wire 112.545 16.195 112.545 19.065 V 0.5
+wire 112.545 33.415 113.775 33.415 H 0.5
+wire 113.775 33.415 113.775 36.285 V 0.5
+wire 112.545 33.415 112.545 30.545 V 0.5
+wire 112.955 10.455 121.565 10.455 H 0.5
+wire 112.955 10.455 112.545 10.455 H 0.5
+wire 112.545 10.455 112.545 13.325 V 0.5
+wire 121.975 82.205 115.005 82.205 H 0.5
+wire 113.775 47.765 113.775 50.635 V 0.5
+wire 113.775 47.765 113.775 36.285 V 0.5
+wire 112.135 24.805 112.545 24.805 H 0.5
+wire 112.545 24.805 112.545 30.545 V 0.5
+wire 115.005 79.335 115.005 82.205 V 0.5
+wire 115.415 50.635 128.535 50.635 H 0.5
+wire 128.535 50.635 128.535 49.815 V 0.5
+wire 115.415 50.635 113.775 50.635 H 0.5
+wire 141.655 49.815 128.535 49.815 H 0.5
+endRouteGuideNet
+routeGuideNet tx_rx_clk_M__L4_N0
+#Trunk_Term begin
+#Trunk tx_rx_clk_M__L4_I0 Y 133.045 49.815
+#Trunk u_async_fifo/RD_DATA_reg\[4\] CK 157.645 76.465
+#Trunk u_uart_tx/shift_reg_reg\[3\] CK 140.835 85.075
+#Trunk u_async_fifo/u_FIFO_RD/r_addr_reg\[0\] CK 154.365 16.195
+#Trunk_Term end
+wire 138.785 27.675 138.785 49.815 V 0.5
+wire 138.785 27.675 138.785 24.805 V 0.5
+wire 138.785 67.855 143.705 67.855 H 0.5
+wire 138.785 67.855 138.785 64.985 V 0.5
+wire 157.645 76.465 157.645 73.595 V 0.5
+wire 157.645 73.595 157.645 70.725 V 0.5
+wire 154.775 67.855 157.645 67.855 H 0.5
+wire 157.645 67.855 157.645 70.725 V 0.5
+wire 154.775 67.855 143.705 67.855 H 0.5
+wire 154.365 16.195 153.135 16.195 H 0.5
+wire 153.135 16.195 153.135 21.935 V 0.5
+wire 154.365 16.195 154.365 10.455 V 0.5
+wire 143.705 79.335 140.835 79.335 H 0.5
+wire 140.835 79.335 140.835 85.075 V 0.5
+wire 143.705 79.335 143.705 67.855 V 0.5
+wire 143.705 21.935 139.605 21.935 H 0.5
+wire 143.705 21.935 153.135 21.935 H 0.5
+wire 138.785 64.985 138.785 62.115 V 0.5
+wire 133.045 49.815 138.785 49.815 H 0.5
+wire 138.785 49.815 138.785 62.115 V 0.5
+wire 139.605 21.935 138.785 21.935 H 0.5
+wire 138.785 21.935 138.785 24.805 V 0.5
+endRouteGuideNet
+routeGuideNet alu_clk_M__L4_N0
+#Trunk_Term begin
+#Trunk u_alu/ALU_OUT_reg\[3\] CK 140.835 153.955
+#Trunk u_alu/ALU_OUT_reg\[2\] CK 140.015 125.255
+#Trunk u_alu/ALU_OUT_reg\[10\] CK 172.405 133.865
+#Trunk_Term end
+wire 157.645 125.255 158.055 125.255 H 0.5
+wire 157.645 125.255 157.645 130.995 V 0.5
+wire 157.645 125.255 140.015 125.255 H 0.5
+wire 183.065 136.735 172.405 136.735 H 0.5
+wire 153.135 145.345 153.135 153.955 V 0.5
+wire 153.135 145.345 154.775 145.345 H 0.5
+wire 154.775 145.345 154.775 139.605 V 0.5
+wire 140.835 153.955 153.135 153.955 H 0.5
+wire 154.775 139.605 157.645 139.605 H 0.5
+wire 157.645 139.605 157.645 130.995 V 0.5
+wire 158.055 125.255 169.535 125.255 H 0.5
+wire 169.535 125.255 169.945 125.255 H 0.5
+wire 169.945 125.255 169.945 130.175 V 0.5
+wire 169.945 130.175 172.405 130.175 H 0.5
+wire 172.405 130.175 172.405 133.865 V 0.5
+wire 172.405 133.865 172.405 136.735 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N17
+#Trunk_Term begin
+#Trunk u_reg_file/mem_reg\[8\]\[5\] CK 41.205 168.305
+#Trunk u_reg_file/mem_reg\[15\]\[2\] CK 19.065 159.695
+#Trunk_Term end
+wire 27.675 165.435 27.675 171.175 V 0.5
+wire 27.675 165.435 27.675 163.385 V 0.5
+wire 41.205 162.565 41.205 168.305 V 0.5
+wire 12.505 159.695 19.065 159.695 H 0.5
+wire 27.265 159.695 27.675 159.695 H 0.5
+wire 27.675 159.695 27.675 163.385 V 0.5
+wire 27.265 159.695 19.065 159.695 H 0.5
+wire 27.675 174.045 30.545 174.045 H 0.5
+wire 27.675 174.045 27.675 171.175 V 0.5
+wire 41.205 174.045 41.205 168.305 V 0.5
+wire 41.205 174.045 30.545 174.045 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N16
+#Trunk_Term begin
+#Trunk u_reg_file/mem_reg\[11\]\[6\] CK 41.205 191.265
+#Trunk u_reg_file/mem_reg\[13\]\[4\] CK 10.455 194.135
+#Trunk_Term end
+wire 28.085 202.745 38.335 202.745 H 0.5
+wire 28.085 202.745 28.085 199.875 V 0.5
+wire 42.025 202.745 42.025 199.875 V 0.5
+wire 42.025 202.745 38.335 202.745 H 0.5
+wire 18.245 188.395 24.805 188.395 H 0.5
+wire 18.245 188.395 12.915 188.395 H 0.5
+wire 10.455 194.135 10.455 188.395 V 0.5
+wire 12.915 188.395 10.455 188.395 H 0.5
+wire 24.805 188.395 26.035 188.395 H 0.5
+wire 26.035 188.395 26.035 193.315 V 0.5
+wire 26.035 193.315 28.085 193.315 H 0.5
+wire 28.085 193.315 28.085 199.875 V 0.5
+wire 41.205 191.265 41.205 197.005 V 0.5
+wire 41.205 197.005 42.025 197.005 H 0.5
+wire 42.025 197.005 42.025 199.875 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N15
+#Trunk_Term begin
+#Trunk REF_CLK_M__L14_I15 Y 69.495 193.315
+#Trunk u_reg_file/mem_reg\[10\]\[6\] CK 56.375 191.265
+#Trunk u_reg_file/mem_reg\[1\]\[5\] CK 81.385 202.745
+#Trunk_Term end
+wire 56.375 197.005 56.375 202.745 V 0.5
+wire 56.375 197.005 56.375 191.265 V 0.5
+wire 69.905 191.265 69.495 191.265 H 0.5
+wire 69.495 191.265 69.495 193.315 V 0.5
+wire 69.905 191.265 72.365 191.265 H 0.5
+wire 72.775 202.745 81.385 202.745 H 0.5
+wire 72.775 202.745 72.775 199.875 V 0.5
+wire 72.775 202.745 69.905 202.745 H 0.5
+wire 83.845 194.135 83.845 202.745 V 0.5
+wire 56.375 185.525 56.375 191.265 V 0.5
+wire 58.425 202.745 69.905 202.745 H 0.5
+wire 58.425 202.745 56.375 202.745 H 0.5
+wire 72.365 191.265 72.775 191.265 H 0.5
+wire 72.775 191.265 72.775 199.875 V 0.5
+wire 81.385 202.745 83.845 202.745 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N14
+#Trunk_Term begin
+#Trunk u_reg_file/mem_reg\[7\]\[0\] CK 41.205 130.995
+#Trunk u_reg_file/mem_reg\[6\]\[5\] CK 13.325 133.865
+#Trunk_Term end
+wire 41.205 130.995 41.205 122.385 V 0.5
+wire 38.745 119.515 29.725 119.515 H 0.5
+wire 38.745 119.515 41.205 119.515 H 0.5
+wire 41.205 119.515 41.205 122.385 V 0.5
+wire 29.725 128.125 28.905 128.125 H 0.5
+wire 28.905 128.125 28.905 130.995 V 0.5
+wire 29.725 128.125 29.725 119.515 V 0.5
+wire 28.905 130.995 24.805 130.995 H 0.5
+wire 24.805 130.995 24.805 133.865 V 0.5
+wire 24.805 133.865 24.395 133.865 H 0.5
+wire 24.395 133.865 24.395 135.915 V 0.5
+wire 24.395 135.915 21.935 135.915 H 0.5
+wire 21.935 135.915 21.935 142.475 V 0.5
+wire 21.935 142.475 21.935 145.345 V 0.5
+wire 13.325 145.345 10.455 145.345 H 0.5
+wire 10.455 145.345 10.455 142.475 V 0.5
+wire 13.325 145.345 21.935 145.345 H 0.5
+wire 13.325 133.865 10.455 133.865 H 0.5
+wire 10.455 133.865 10.455 139.605 V 0.5
+wire 10.455 142.475 10.455 139.605 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N13
+#Trunk_Term begin
+#Trunk u_reg_file/mem_reg\[9\]\[4\] CK 60.475 159.695
+#Trunk u_reg_file/mem_reg\[0\]\[4\] CK 83.845 156.825
+#Trunk_Term end
+wire 71.955 168.305 74.005 168.305 H 0.5
+wire 74.005 168.305 74.005 171.175 V 0.5
+wire 71.955 168.305 71.955 159.695 V 0.5
+wire 71.955 157.645 71.955 151.085 V 0.5
+wire 71.955 157.645 67.035 157.645 H 0.5
+wire 71.955 157.645 71.955 159.695 V 0.5
+wire 83.845 162.565 83.845 156.825 V 0.5
+wire 83.845 162.565 83.845 165.435 V 0.5
+wire 81.385 171.175 81.385 168.305 V 0.5
+wire 81.385 171.175 74.005 171.175 H 0.5
+wire 60.475 159.695 67.035 159.695 H 0.5
+wire 67.035 159.695 67.035 157.645 V 0.5
+wire 81.385 168.305 83.845 168.305 H 0.5
+wire 83.845 168.305 83.845 165.435 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N12
+#Trunk_Term begin
+#Trunk u_reg_file/RdData_reg\[3\] CK 99.835 136.735
+#Trunk u_reg_file/mem_reg\[0\]\[0\] CK 84.255 130.995
+#Trunk_Term end
+wire 98.195 145.345 99.835 145.345 H 0.5
+wire 99.835 145.345 99.835 136.735 V 0.5
+wire 83.025 128.125 84.255 128.125 H 0.5
+wire 84.255 128.125 84.255 130.995 V 0.5
+wire 85.485 130.995 84.255 130.995 H 0.5
+wire 85.485 130.995 91.635 130.995 H 0.5
+wire 91.635 130.995 91.635 130.175 V 0.5
+wire 97.375 130.175 91.635 130.175 H 0.5
+wire 97.375 130.175 97.375 133.865 V 0.5
+wire 99.835 133.865 109.265 133.865 H 0.5
+wire 99.835 133.865 97.375 133.865 H 0.5
+wire 99.835 133.865 99.835 136.735 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N11
+#Trunk_Term begin
+#Trunk u_sys_ctrl/state_reg\[2\] CK 100.655 85.075
+#Trunk u_data_sync/sync_bus_reg\[7\] CK 84.665 73.595
+#Trunk u_async_fifo/u_FIFO_WR/w_ptr_reg\[3\] CK 113.365 42.025
+#Trunk_Term end
+wire 99.015 76.465 99.015 79.335 V 0.5
+wire 99.015 76.465 96.555 76.465 H 0.5
+wire 96.555 76.465 96.555 73.595 V 0.5
+wire 84.665 73.595 96.145 73.595 H 0.5
+wire 96.145 73.595 96.555 73.595 H 0.5
+wire 96.555 70.725 101.475 70.725 H 0.5
+wire 101.475 70.725 101.475 67.855 V 0.5
+wire 96.555 70.725 96.555 73.595 V 0.5
+wire 99.015 79.335 100.655 79.335 H 0.5
+wire 100.655 79.335 100.655 85.075 V 0.5
+wire 101.475 61.295 105.575 61.295 H 0.5
+wire 105.575 61.295 105.575 44.895 V 0.5
+wire 101.475 61.295 101.475 67.855 V 0.5
+wire 105.575 44.895 113.365 44.895 H 0.5
+wire 113.365 44.895 113.365 42.025 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N10
+#Trunk_Term begin
+#Trunk u_reg_file/mem_reg\[4\]\[0\] CK 41.205 99.425
+#Trunk u_reg_file/mem_reg\[4\]\[5\] CK 21.935 99.425
+#Trunk_Term end
+wire 12.505 99.425 21.935 99.425 H 0.5
+wire 40.795 96.555 41.205 96.555 H 0.5
+wire 40.795 96.555 29.725 96.555 H 0.5
+wire 43.665 105.165 41.205 105.165 H 0.5
+wire 41.205 105.165 41.205 99.425 V 0.5
+wire 23.985 101.475 29.725 101.475 H 0.5
+wire 23.985 101.475 21.935 101.475 H 0.5
+wire 21.935 101.475 21.935 99.425 V 0.5
+wire 29.725 96.555 29.725 101.475 V 0.5
+wire 41.205 99.425 41.205 96.555 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N9
+#Trunk_Term begin
+#Trunk REF_CLK_M__L14_I9 Y 63.345 94.505
+#Trunk u_sys_ctrl/saved_address_reg\[0\] CK 69.085 105.165
+#Trunk u_reg_file/mem_reg\[2\]\[4\] CK 65.805 73.595
+#Trunk_Term end
+wire 58.015 73.595 65.805 73.595 H 0.5
+wire 71.135 85.075 69.905 85.075 H 0.5
+wire 69.905 85.075 69.905 87.945 V 0.5
+wire 71.135 85.075 71.135 79.335 V 0.5
+wire 57.605 108.035 69.085 108.035 H 0.5
+wire 69.085 108.035 69.085 105.165 V 0.5
+wire 71.135 76.465 71.135 79.335 V 0.5
+wire 71.135 76.465 67.855 76.465 H 0.5
+wire 69.905 94.505 69.905 96.555 V 0.5
+wire 69.905 94.505 63.345 94.505 H 0.5
+wire 69.905 94.505 69.905 90.815 V 0.5
+wire 65.805 73.595 67.855 73.595 H 0.5
+wire 67.855 73.595 67.855 76.465 V 0.5
+wire 69.085 105.165 69.495 105.165 H 0.5
+wire 69.495 105.165 69.495 102.295 V 0.5
+wire 69.495 102.295 69.905 102.295 H 0.5
+wire 69.905 102.295 69.905 96.555 V 0.5
+wire 69.905 87.945 69.905 90.815 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N8
+#Trunk_Term begin
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[8\]\[4\] CK 198.235 139.195
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[12\]\[1\] CK 185.935 119.925
+#Trunk_Term end
+wire 182.245 116.235 185.935 116.235 H 0.5
+wire 185.935 116.235 185.935 119.925 V 0.5
+wire 185.935 127.715 192.905 127.715 H 0.5
+wire 185.935 127.715 185.935 121.975 V 0.5
+wire 199.055 124.435 199.875 124.435 H 0.5
+wire 199.875 124.435 199.875 127.715 V 0.5
+wire 199.055 124.435 192.905 124.435 H 0.5
+wire 185.935 119.925 185.935 121.975 V 0.5
+wire 192.905 124.435 192.905 127.715 V 0.5
+wire 198.235 139.195 199.875 139.195 H 0.5
+wire 199.875 139.195 199.875 133.455 V 0.5
+wire 199.875 133.455 199.875 127.715 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N7
+#Trunk_Term begin
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[6\]\[7\] CK 197.005 81.795
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[7\]\[3\] CK 213.815 93.275
+#Trunk REF_CLK_M__L14_I7 Y 195.775 100.245
+#Trunk_Term end
+wire 198.645 85.485 198.645 91.225 V 0.5
+wire 198.645 85.485 197.005 85.485 H 0.5
+wire 197.005 85.485 197.005 81.795 V 0.5
+wire 198.645 93.275 195.775 93.275 H 0.5
+wire 198.645 93.275 203.565 93.275 H 0.5
+wire 198.645 93.275 198.645 91.225 V 0.5
+wire 195.775 102.705 199.875 102.705 H 0.5
+wire 195.775 102.705 195.775 100.245 V 0.5
+wire 213.815 99.015 213.815 93.275 V 0.5
+wire 195.775 100.245 195.775 93.275 V 0.5
+wire 203.565 93.275 213.815 93.275 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N6
+#Trunk_Term begin
+#Trunk REF_CLK_M__L14_I6 Y 219.145 101.475
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[6\]\[4\] CK 213.815 76.055
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[8\]\[1\] CK 224.885 127.715
+#Trunk_Term end
+wire 228.575 76.055 228.575 87.535 V 0.5
+wire 228.575 76.055 226.115 76.055 H 0.5
+wire 225.705 99.015 225.705 108.445 V 0.5
+wire 225.705 99.015 224.475 99.015 H 0.5
+wire 224.475 99.015 224.475 96.965 V 0.5
+wire 225.705 99.015 228.575 99.015 H 0.5
+wire 228.165 127.715 224.885 127.715 H 0.5
+wire 228.165 127.715 228.165 121.975 V 0.5
+wire 213.815 127.715 224.885 127.715 H 0.5
+wire 219.555 96.965 219.145 96.965 H 0.5
+wire 219.145 96.965 219.145 101.475 V 0.5
+wire 219.555 96.965 224.475 96.965 H 0.5
+wire 213.815 76.055 226.115 76.055 H 0.5
+wire 225.705 108.445 228.165 108.445 H 0.5
+wire 228.165 108.445 228.165 114.185 V 0.5
+wire 228.165 114.185 228.165 121.975 V 0.5
+wire 228.575 87.535 228.575 99.015 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N5
+#Trunk_Term begin
+#Trunk u_async_fifo/FULL_reg CK 137.965 99.425
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[13\]\[0\] CK 157.235 108.445
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[13\]\[1\] CK 153.955 110.495
+#Trunk u_sys_ctrl/saved_function_reg\[3\] CK 116.645 113.775
+#Trunk_Term end
+wire 153.955 108.445 157.235 108.445 H 0.5
+wire 153.955 108.445 153.955 110.495 V 0.5
+wire 153.955 108.445 142.885 108.445 H 0.5
+wire 111.725 113.775 116.645 113.775 H 0.5
+wire 137.965 108.445 137.965 99.425 V 0.5
+wire 137.965 108.445 135.505 108.445 H 0.5
+wire 135.505 108.445 135.505 111.725 V 0.5
+wire 137.965 108.445 142.885 108.445 H 0.5
+wire 116.645 113.775 125.255 113.775 H 0.5
+wire 125.255 113.775 125.255 111.725 V 0.5
+wire 135.505 111.725 125.255 111.725 H 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N4
+#Trunk_Term begin
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[12\]\[7\] CK 167.485 99.015
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[15\]\[6\] CK 167.075 58.835
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[14\]\[2\] CK 181.835 87.535
+#Trunk_Term end
+wire 181.835 87.535 171.585 87.535 H 0.5
+wire 181.835 87.535 181.835 76.055 V 0.5
+wire 171.585 84.255 170.355 84.255 H 0.5
+wire 170.355 84.255 170.355 81.795 V 0.5
+wire 171.585 84.255 171.585 87.535 V 0.5
+wire 171.175 91.225 167.485 91.225 H 0.5
+wire 167.485 91.225 167.485 93.275 V 0.5
+wire 171.175 91.225 171.585 91.225 H 0.5
+wire 171.585 91.225 171.585 87.535 V 0.5
+wire 170.355 81.795 169.535 81.795 H 0.5
+wire 169.535 81.795 169.535 79.745 V 0.5
+wire 169.535 76.055 167.075 76.055 H 0.5
+wire 167.075 76.055 167.075 68.265 V 0.5
+wire 169.535 76.055 169.535 79.745 V 0.5
+wire 167.485 99.015 167.485 93.275 V 0.5
+wire 167.075 68.265 167.075 58.835 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N3
+#Trunk_Term begin
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[1\]\[2\] CK 171.995 30.135
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[3\]\[2\] CK 199.875 22.345
+#Trunk_Term end
+wire 183.475 24.395 183.475 30.135 V 0.5
+wire 183.475 24.395 183.475 21.115 V 0.5
+wire 181.835 30.135 171.995 30.135 H 0.5
+wire 181.835 30.135 183.475 30.135 H 0.5
+wire 185.935 7.175 189.215 7.175 H 0.5
+wire 185.935 7.175 185.935 12.915 V 0.5
+wire 183.475 21.115 185.935 21.115 H 0.5
+wire 185.935 21.115 185.935 12.915 V 0.5
+wire 189.215 7.175 198.645 7.175 H 0.5
+wire 198.645 7.175 199.465 7.175 H 0.5
+wire 199.465 7.175 199.465 12.915 V 0.5
+wire 199.465 12.915 199.875 12.915 H 0.5
+wire 199.875 12.915 199.875 22.345 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N2
+#Trunk_Term begin
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[4\]\[7\] CK 212.585 53.095
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[2\]\[6\] CK 210.945 24.395
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[4\]\[1\] CK 223.655 35.875
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[5\]\[0\] CK 224.065 47.355
+#Trunk_Term end
+wire 223.655 38.335 224.065 38.335 H 0.5
+wire 224.065 38.335 224.065 47.355 V 0.5
+wire 223.655 38.335 218.735 38.335 H 0.5
+wire 223.655 38.335 223.655 35.875 V 0.5
+wire 226.115 53.095 224.065 53.095 H 0.5
+wire 224.065 53.095 224.065 47.355 V 0.5
+wire 213.815 38.335 213.815 41.615 V 0.5
+wire 213.815 38.335 210.945 38.335 H 0.5
+wire 210.945 38.335 210.945 35.875 V 0.5
+wire 213.815 38.335 218.735 38.335 H 0.5
+wire 210.945 24.395 210.945 35.875 V 0.5
+wire 212.585 53.095 213.815 53.095 H 0.5
+wire 213.815 53.095 213.815 45.305 V 0.5
+wire 213.815 41.615 213.815 45.305 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N1
+#Trunk_Term begin
+#Trunk u_async_fifo/u_DF_SYNC_R2W/synchronized_out_reg\[3\] CK 131.405 33.415
+#Trunk u_async_fifo/u_DF_SYNC_R2W/second_stage_reg\[0\] CK 157.235 42.025
+#Trunk u_async_fifo/u_FIFO_WR/w_addr_reg\[0\] CK 140.835 53.505
+#Trunk_Term end
+wire 140.835 39.155 149.035 39.155 H 0.5
+wire 140.835 39.155 140.835 36.285 V 0.5
+wire 140.835 39.155 140.425 39.155 H 0.5
+wire 140.835 33.415 140.015 33.415 H 0.5
+wire 140.835 33.415 140.835 36.285 V 0.5
+wire 138.785 47.765 140.835 47.765 H 0.5
+wire 140.835 47.765 140.835 53.505 V 0.5
+wire 138.785 47.765 138.785 44.075 V 0.5
+wire 156.415 39.155 157.235 39.155 H 0.5
+wire 157.235 39.155 157.235 42.025 V 0.5
+wire 156.415 39.155 149.035 39.155 H 0.5
+wire 131.405 33.415 140.015 33.415 H 0.5
+wire 138.785 44.075 140.425 44.075 H 0.5
+wire 140.425 44.075 140.425 39.155 V 0.5
+wire 140.835 53.505 140.835 56.375 V 0.5
+endRouteGuideNet
+routeGuideNet REF_CLK_M__L14_N0
+#Trunk_Term begin
+#Trunk REF_CLK_M__L14_I0 Y 183.475 55.555
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[1\]\[1\] CK 171.585 39.565
+#Trunk u_async_fifo/u_fifo_mem_cntrl/mem_reg\[4\]\[6\] CK 197.005 51.045
+#Trunk_Term end
+wire 167.485 47.355 167.485 45.305 V 0.5
+wire 167.485 47.355 167.485 56.785 V 0.5
+wire 167.895 39.565 171.585 39.565 H 0.5
+wire 167.895 39.565 167.895 41.615 V 0.5
+wire 183.475 58.835 183.475 55.555 V 0.5
+wire 183.475 58.835 178.965 58.835 H 0.5
+wire 183.475 58.835 185.935 58.835 H 0.5
+wire 197.005 58.835 197.005 51.045 V 0.5
+wire 197.005 58.835 192.495 58.835 H 0.5
+wire 167.485 45.305 167.895 45.305 H 0.5
+wire 167.895 45.305 167.895 41.615 V 0.5
+wire 167.485 56.785 178.965 56.785 H 0.5
+wire 178.965 56.785 178.965 58.835 V 0.5
+wire 192.495 58.835 185.935 58.835 H 0.5
+endRouteGuideNet
